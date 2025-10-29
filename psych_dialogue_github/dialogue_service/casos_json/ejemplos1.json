@@ -1,0 +1,140 @@
+[
+    {
+        "id": "un-uuid-aleatorio-1",
+        "nombreCompleto": "Raúl Montero",
+        "edad": "40 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Depresión",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "El paciente se autodefine como 'deprimido', asumiendo que su problema es insidioso, grave y difícil de resolver [1]. Su estado se mantiene por un patrón de inacción y una reducción de la estimulación del ambiente, lo que refuerza su desesperanza. Su familia ha intentado animarle, lo que constituye un intento de solución fallido que solo empeora su sensación de aislamiento [2, 3].",
+        "sintomasClave": [
+            "Reducción de la estimulación del ambiente (cerrar cortinas, quedarse bajo las mantas) [4]",
+            "Rumia mental enfocada en el pasado y en lo que 'debería o no debería haber hecho' [4]",
+            "Aislamiento social y conversación recurrente sobre el mismo tema (su desdicha) con las mismas personas [4]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Esposa",
+                "descripcion": "Intenta con 'más ahínco' hacer que piense en positivo, lo que le hace sentir incomprendido y aumenta su desolación [2, 3]. Su método de solución intentada es 'más de lo mismo' [5].",
+                "sentimientoPrincipal": "Frustración (de la esposa)/Incomprensión (de Raúl)"
+            },
+            {
+                "rol": "Amigos/Compañeros",
+                "descripcion": "Comparte con ellos su desdicha de forma repetitiva [4], pero evita activamente la compañía o la estimulación que le haría 'respirar profundamente' [4].",
+                "sentimientoPrincipal": "Evitación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Salir del bache o del estado actual, aunque lo percibe como una tarea ardua o casi imposible [1].",
+            "metaOculta": "Que su estado sea legitimado y que los demás aprecien su 'desolación' en lugar de forzarle al optimismo [3].",
+            "miedoPrincipal": "El miedo a que su estado sea fijo e inmutable, creyendo que 'siempre se ha sentido así y que en el futuro siempre se sentiría así' [4]."
+        },
+        "incongruencias": "Afirma querer ayuda, pero sus acciones (evitar salir, cerrar cortinas, limitar la estimulación [4]) están diseñadas activamente para mantener una 'depresión realmente buena' [4], saboteando el cambio.",
+        "creenciaCentral": "Mi problema es insidioso, grave y difícil de resolver [1]. Siempre salgo mal en la comparación con los demás [4].",
+        "estiloDeComunicacion": "Modo indicativo [6] que consolida su realidad negativa ('nunca', 'siempre'). Uso de etiquetas patológicas fijas ('deprimido') [1, 4, 7].",
+        "mecanismoDeDefensa": "Retraimiento y Rumia mental (dar vueltas al pasado y a todo lo que 'debería o no debería haber hecho') [4].",
+        "motivacionParaLaTerapia": "La ineficacia de los intentos de solución de su familia (que se intensifican al fracasar [2]) lo han llevado a un punto muerto que requiere la intervención de un tercero [2].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Desesperanza",
+                "linea": "Si quisiera tener una depresión realmente buena... daría vueltas al pasado y a todas las cosas que debería o no debería haber hecho. Pensaría que siempre me había sentido así."
+            },
+            {
+                "emocion": "Frustración",
+                "linea": "Si me comprendieran realmente, ¿cómo podrían decirme 'ánimo'? Lo que realmente necesito es sentir que de verdad están conmigo."
+            }
+        ]
+    },
+    {
+        "id": "un-uuid-aleatorio-2",
+        "nombreCompleto": "Marissa Storey",
+        "edad": "15 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Afán de perfección",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPEUTICO.pdf",
+        "historiaResumida": "La paciente es una estudiante con una 'mentalidad servil' hacia la obediencia estricta a mandatos internos de excelencia [8]. Este patrón ha escalado, agotando a su madre (Carolyn) y llevando a la paciente a 'rabietas' y abusos hacia su hermano si se interrumpen sus actividades académicas. Su vida está saturada por sus deberes [9].",
+        "sintomasClave": [
+            "Uso de 'kilos de folios' y continuas repeticiones en los deberes por su afán de hacerlos a la perfección [9]",
+            "Rabietas y llanto matutinos si los trabajos no están hechos a tiempo [9]",
+            "Agresiones e intimidaciones hacia su hermano por interrupciones menores (ej., pisar un trabajo) [9]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Madre (Carolyn)",
+                "descripcion": "La madre ha sido cómplice de la perfección, estando siempre disponible para ayudar con los deberes y comprando material (servilismo), lo que Marissa utiliza para mantener su 'maldición de la perfección' [8, 9].",
+                "sentimientoPrincipal": "Dependencia/Resentimiento"
+            },
+            {
+                "rol": "Hermano (Michael)",
+                "descripcion": "Objeto de las agresiones, intimidaciones y abusos verbales y físicos si interrumpe el ritual de la perfección de Marissa [9].",
+                "sentimientoPrincipal": "Temor/Hostilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Conseguir y mantener la excelencia académica para sentirse segura y reconocida.",
+            "metaOculta": "Liberarse de la necesidad de perfección [10] y establecer su propia 'declaración de independencia' [11].",
+            "miedoPrincipal": "El miedo al juicio normalizador, a la evaluación, a la descalificación y a 'no dar la talla' [12, 13]. Teme que, si falla, se demuestre la 'mentira' de su valía [14]. "
+        },
+        "incongruencias": "Critica a su madre por 'arruinar su felicidad' con la intervención terapéutica [15] y se queja de las exigencias [8], pero es ella quien impone las demandas más extremas de apoyo (ej. llevarla en coche a tres bibliotecas diferentes) [9] y quien la culpa por el fracaso [16].",
+        "creenciaCentral": "Debo mantener el nivel porque me juzgarán [14]. Si no demuestro excelencia, seré un 'cuerpo dócil' sojuzgado por el conocimiento [17].",
+        "estiloDeComunicacion": "Controlador y exigente. Tiende a la justificación y al lenguaje de la víctima cuando es desafiada (ej. 'Has arruinado la felicidad') [8, 15].",
+        "mecanismoDeDefensa": "Intelectualización (del proceso de estudio) y Proyección (culpa a su madre por sus problemas [15, 16]).",
+        "motivacionParaLaTerapia": "Involuntaria, traída por su madre como parte de una 'revolución' en el sistema familiar que busca liberar a Marissa y a su madre de la maldición de la perfección [10, 18].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Rabia",
+                "linea": "No quiero que lo firmes. Has arruinado la felicidad de nuestra familia. Lo has estropeado todo. No voy a volver a ver a ese hombre nunca más. Le odio. "
+            },
+            {
+                "emocion": "Autopercepción",
+                "linea": "Si me sentía indispuesta, me decía que siempre estaba sintiendo pena por mí misma."
+            }
+        ]
+    },
+    {
+        "id": "un-uuid-aleatorio-3",
+        "nombreCompleto": "Bruce Smith",
+        "edad": "35 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Aislamiento",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPEUTICO.pdf",
+        "historiaResumida": "El paciente tiene un diagnóstico antiguo de esquizofrenia [19] y ha adoptado un 'estilo de vida en un rincón' [20]. Se ha aislado completamente, rara vez sale de su dormitorio y se esconde de las visitas [19]. Su identidad está envuelta en una 'historia saturada de problemas' que enfatiza sus fracasos, aunque su estado era estable [19, 21].",
+        "sintomasClave": [
+            "Retraimiento físico extremo (no sale de su dormitorio) [19, 20]",
+            "Evitación de la 'mirada' de los demás (se esconde de las visitas) [19]",
+            "Adopción de una imagen personal de fracaso, independientemente de sus logros reales [22, 23]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres (Richard y Mim)",
+                "descripcion": "Están preocupados por el rumbo que ha tomado su vida [19, 20]. Sus esfuerzos por animarle (ir por delante de él) resultan contraproducentes al reforzar la sensación de fracaso de Bruce [22].",
+                "sentimientoPrincipal": "Preocupación/Desesperación"
+            },
+            {
+                "rol": "Voces/Ideas con Rabietas",
+                "descripcion": "En momentos de crisis, las alucinaciones auditivas ('voces') le hacen la vida imposible [24]. Estas 'voces' son el problema externalizado que trata de disuadirlo de dar pasos positivos [24].",
+                "sentimientoPrincipal": "Sojuzgamiento"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Lograr una vida con un rumbo que no preocupe a sus padres.",
+            "metaOculta": "Encontrar un 'relato extraordinario' y una voz propia que no sea trivializada o descalificada [21, 23].",
+            "miedoPrincipal": "El temor a la descalificación y a que la 'mirada normalizadora' de los demás confirme su propia imagen de incompetencia o fracaso [13, 25, 26]."
+        },
+        "incongruencias": "Siente una 'discrepancia' entre cómo se ve a sí mismo (fracaso) y cómo lo ven los demás (creen que va por delante de sus verdaderas circunstancias) [22], lo que indica que su narrativa de fracaso está suprimiendo los 'acontecimientos extraordinarios' [27].",
+        "creenciaCentral": "Soy un gran fracasado [23]. Mi existencia es muy conflictiva y frágil [23].",
+        "estiloDeComunicacion": "Retraído y con poca participación. Si responde, su lenguaje se enfoca en la justificación de su inacción o en la pasividad [28].",
+        "mecanismoDeDefensa": "Aislamiento (para neutralizar el juicio) y cosificación/subjetificación ('mi cuerpo es una cosa que no puedo controlar' [24]).",
+        "motivacionParaLaTerapia": "Derivado o presionado por su familia [19, 20], aunque se encuentra interesado por el 'giro de los acontecimientos' terapéuticos que lo separan del problema [28].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Pasividad",
+                "linea": "Rara vez salía de mi dormitorio, y me escondía de las visitas. Mi estado era estable, pero me había aislado completamente. Apenas hablaba."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Las voces me hicieron la vida imposible durante más de dos semanas, aunque me sorprendió haber sido capaz de venir a pesar de que ellas trataron de disuadirme."
+            }
+        ]
+    }
+]
