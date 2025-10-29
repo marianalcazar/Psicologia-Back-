@@ -1,0 +1,987 @@
+[
+    {
+        "id": "un-uuid-aleatorio-1",
+        "nombreCompleto": "Raúl Montero",
+        "edad": "40 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Depresión",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "El paciente se autodefine como 'deprimido', asumiendo que su problema es insidioso, grave y difícil de resolver [1]. Su estado se mantiene por un patrón de inacción y una reducción de la estimulación del ambiente, lo que refuerza su desesperanza. Su familia ha intentado animarle, lo que constituye un intento de solución fallido que solo empeora su sensación de aislamiento [2, 3].",
+        "sintomasClave": [
+            "Reducción de la estimulación del ambiente (cerrar cortinas, quedarse bajo las mantas) [4]",
+            "Rumia mental enfocada en el pasado y en lo que 'debería o no debería haber hecho' [4]",
+            "Aislamiento social y conversación recurrente sobre el mismo tema (su desdicha) con las mismas personas [4]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Esposa",
+                "descripcion": "Intenta con 'más ahínco' hacer que piense en positivo, lo que le hace sentir incomprendido y aumenta su desolación [2, 3]. Su método de solución intentada es 'más de lo mismo' [5].",
+                "sentimientoPrincipal": "Frustración (de la esposa)/Incomprensión (de Raúl)"
+            },
+            {
+                "rol": "Amigos/Compañeros",
+                "descripcion": "Comparte con ellos su desdicha de forma repetitiva [4], pero evita activamente la compañía o la estimulación que le haría 'respirar profundamente' [4].",
+                "sentimientoPrincipal": "Evitación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Salir del bache o del estado actual, aunque lo percibe como una tarea ardua o casi imposible [1].",
+            "metaOculta": "Que su estado sea legitimado y que los demás aprecien su 'desolación' en lugar de forzarle al optimismo [3].",
+            "miedoPrincipal": "El miedo a que su estado sea fijo e inmutable, creyendo que 'siempre se ha sentido así y que en el futuro siempre se sentiría así' [4]."
+        },
+        "incongruencias": "Afirma querer ayuda, pero sus acciones (evitar salir, cerrar cortinas, limitar la estimulación [4]) están diseñadas activamente para mantener una 'depresión realmente buena' [4], saboteando el cambio.",
+        "creenciaCentral": "Mi problema es insidioso, grave y difícil de resolver [1]. Siempre salgo mal en la comparación con los demás [4].",
+        "estiloDeComunicacion": "Modo indicativo [6] que consolida su realidad negativa ('nunca', 'siempre'). Uso de etiquetas patológicas fijas ('deprimido') [1, 4, 7].",
+        "mecanismoDeDefensa": "Retraimiento y Rumia mental (dar vueltas al pasado y a todo lo que 'debería o no debería haber hecho') [4].",
+        "motivacionParaLaTerapia": "La ineficacia de los intentos de solución de su familia (que se intensifican al fracasar [2]) lo han llevado a un punto muerto que requiere la intervención de un tercero [2].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Desesperanza",
+                "linea": "Si quisiera tener una depresión realmente buena... daría vueltas al pasado y a todas las cosas que debería o no debería haber hecho. Pensaría que siempre me había sentido así."
+            },
+            {
+                "emocion": "Frustración",
+                "linea": "Si me comprendieran realmente, ¿cómo podrían decirme 'ánimo'? Lo que realmente necesito es sentir que de verdad están conmigo."
+            }
+        ]
+    },
+    {
+        "id": "un-uuid-aleatorio-2",
+        "nombreCompleto": "Marissa Storey",
+        "edad": "15 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Afán de perfección",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPEUTICO.pdf",
+        "historiaResumida": "La paciente es una estudiante con una 'mentalidad servil' hacia la obediencia estricta a mandatos internos de excelencia [8]. Este patrón ha escalado, agotando a su madre (Carolyn) y llevando a la paciente a 'rabietas' y abusos hacia su hermano si se interrumpen sus actividades académicas. Su vida está saturada por sus deberes [9].",
+        "sintomasClave": [
+            "Uso de 'kilos de folios' y continuas repeticiones en los deberes por su afán de hacerlos a la perfección [9]",
+            "Rabietas y llanto matutinos si los trabajos no están hechos a tiempo [9]",
+            "Agresiones e intimidaciones hacia su hermano por interrupciones menores (ej., pisar un trabajo) [9]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Madre (Carolyn)",
+                "descripcion": "La madre ha sido cómplice de la perfección, estando siempre disponible para ayudar con los deberes y comprando material (servilismo), lo que Marissa utiliza para mantener su 'maldición de la perfección' [8, 9].",
+                "sentimientoPrincipal": "Dependencia/Resentimiento"
+            },
+            {
+                "rol": "Hermano (Michael)",
+                "descripcion": "Objeto de las agresiones, intimidaciones y abusos verbales y físicos si interrumpe el ritual de la perfección de Marissa [9].",
+                "sentimientoPrincipal": "Temor/Hostilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Conseguir y mantener la excelencia académica para sentirse segura y reconocida.",
+            "metaOculta": "Liberarse de la necesidad de perfección [10] y establecer su propia 'declaración de independencia' [11].",
+            "miedoPrincipal": "El miedo al juicio normalizador, a la evaluación, a la descalificación y a 'no dar la talla' [12, 13]. Teme que, si falla, se demuestre la 'mentira' de su valía [14]. "
+        },
+        "incongruencias": "Critica a su madre por 'arruinar su felicidad' con la intervención terapéutica [15] y se queja de las exigencias [8], pero es ella quien impone las demandas más extremas de apoyo (ej. llevarla en coche a tres bibliotecas diferentes) [9] y quien la culpa por el fracaso [16].",
+        "creenciaCentral": "Debo mantener el nivel porque me juzgarán [14]. Si no demuestro excelencia, seré un 'cuerpo dócil' sojuzgado por el conocimiento [17].",
+        "estiloDeComunicacion": "Controlador y exigente. Tiende a la justificación y al lenguaje de la víctima cuando es desafiada (ej. 'Has arruinado la felicidad') [8, 15].",
+        "mecanismoDeDefensa": "Intelectualización (del proceso de estudio) y Proyección (culpa a su madre por sus problemas [15, 16]).",
+        "motivacionParaLaTerapia": "Involuntaria, traída por su madre como parte de una 'revolución' en el sistema familiar que busca liberar a Marissa y a su madre de la maldición de la perfección [10, 18].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Rabia",
+                "linea": "No quiero que lo firmes. Has arruinado la felicidad de nuestra familia. Lo has estropeado todo. No voy a volver a ver a ese hombre nunca más. Le odio. "
+            },
+            {
+                "emocion": "Autopercepción",
+                "linea": "Si me sentía indispuesta, me decía que siempre estaba sintiendo pena por mí misma."
+            }
+        ]
+    },
+    {
+        "id": "un-uuid-aleatorio-3",
+        "nombreCompleto": "Bruce Smith",
+        "edad": "35 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Aislamiento",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPEUTICO.pdf",
+        "historiaResumida": "El paciente tiene un diagnóstico antiguo de esquizofrenia [19] y ha adoptado un 'estilo de vida en un rincón' [20]. Se ha aislado completamente, rara vez sale de su dormitorio y se esconde de las visitas [19]. Su identidad está envuelta en una 'historia saturada de problemas' que enfatiza sus fracasos, aunque su estado era estable [19, 21].",
+        "sintomasClave": [
+            "Retraimiento físico extremo (no sale de su dormitorio) [19, 20]",
+            "Evitación de la 'mirada' de los demás (se esconde de las visitas) [19]",
+            "Adopción de una imagen personal de fracaso, independientemente de sus logros reales [22, 23]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres (Richard y Mim)",
+                "descripcion": "Están preocupados por el rumbo que ha tomado su vida [19, 20]. Sus esfuerzos por animarle (ir por delante de él) resultan contraproducentes al reforzar la sensación de fracaso de Bruce [22].",
+                "sentimientoPrincipal": "Preocupación/Desesperación"
+            },
+            {
+                "rol": "Voces/Ideas con Rabietas",
+                "descripcion": "En momentos de crisis, las alucinaciones auditivas ('voces') le hacen la vida imposible [24]. Estas 'voces' son el problema externalizado que trata de disuadirlo de dar pasos positivos [24].",
+                "sentimientoPrincipal": "Sojuzgamiento"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Lograr una vida con un rumbo que no preocupe a sus padres.",
+            "metaOculta": "Encontrar un 'relato extraordinario' y una voz propia que no sea trivializada o descalificada [21, 23].",
+            "miedoPrincipal": "El temor a la descalificación y a que la 'mirada normalizadora' de los demás confirme su propia imagen de incompetencia o fracaso [13, 25, 26]."
+        },
+        "incongruencias": "Siente una 'discrepancia' entre cómo se ve a sí mismo (fracaso) y cómo lo ven los demás (creen que va por delante de sus verdaderas circunstancias) [22], lo que indica que su narrativa de fracaso está suprimiendo los 'acontecimientos extraordinarios' [27].",
+        "creenciaCentral": "Soy un gran fracasado [23]. Mi existencia es muy conflictiva y frágil [23].",
+        "estiloDeComunicacion": "Retraído y con poca participación. Si responde, su lenguaje se enfoca en la justificación de su inacción o en la pasividad [28].",
+        "mecanismoDeDefensa": "Aislamiento (para neutralizar el juicio) y cosificación/subjetificación ('mi cuerpo es una cosa que no puedo controlar' [24]).",
+        "motivacionParaLaTerapia": "Derivado o presionado por su familia [19, 20], aunque se encuentra interesado por el 'giro de los acontecimientos' terapéuticos que lo separan del problema [28].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Pasividad",
+                "linea": "Rara vez salía de mi dormitorio, y me escondía de las visitas. Mi estado era estable, pero me había aislado completamente. Apenas hablaba."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Las voces me hicieron la vida imposible durante más de dos semanas, aunque me sorprendió haber sido capaz de venir a pesar de que ellas trataron de disuadirme."
+            }
+        ]
+    }
+]
+ 
+[
+  {
+    "id": "2d9a3b4c-901e-45f8-88a2-a7f4c0b3d6e7",
+    "nombreCompleto": "Jaime M. Torres",
+    "edad": "45 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Duelo",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Jaime acude a terapia incapaz de reincorporarse a su vida un año después de la pérdida de su cónyuge. Su experiencia se ha organizado alrededor de una **'narración dominante'** [1] de pérdida y tristeza, que constriñe y trivializa su vida [1]. Cualquier aspecto vital o **'acontecimiento extraordinario'** [2] que contradiga esta narración ha quedado **'sin relatar'** y sin significado [3].",
+    "sintomasClave": [
+      "Anclaje en el pasado, incapacidad de encontrar sentido de continuidad en el presente [4]",
+      "Sentimiento de que gran parte de su experiencia vivida queda amorfa y **sin organización** [3]",
+      "Aislamiento de amigos y familiares porque su relato dominante les hace **'representar'** un conocimiento sobre él que no le permite participar activamente [5]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Cónyuge (fallecido)",
+        "descripcion": "La memoria del cónyuge y el relato asociado a la pérdida dominan el significado que Jaime atribuye a los sucesos de su vida [1]. La relación constituye un relato dominante que **constriñe** su existencia [1, 6].",
+        "sentimientoPrincipal": "Pérdida/Tristeza"
+      },
+      {
+        "rol": "Tristeza/Problema (Externalizado)",
+        "descripcion": "La tristeza ha adquirido el contexto de una **'tendencia'** que parece tener vida propia y que, con el tiempo, llega a ejercer **más influencia** sobre él [7].",
+        "sentimientoPrincipal": "Subyugación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Superar la pérdida para poder seguir adelante con su vida.",
+      "metaOculta": "Generar **relatos alternativos** [8] que le proporcionen un **sentido de agencia personal** [9] y le permitan **re-escribir** su vida [10].",
+      "miedoPrincipal": "Que su tristeza se convierta en una **'tendencia'** [7] que ejerza más influencia, o que **'llorar hacia fuera'** signifique que el cónyuge **'no significaba nada'** [11]."
+    },
+    "incongruencias": "Afirma querer mantener viva la memoria de su cónyuge **'haciéndose mayor como a ellos les hubiese gustado'** [12], pero al anclarse en la tristeza profunda está **'ahogando su fuerza'** [11] y estancando su propia vida, lo cual contradice su objetivo declarado.",
+    "creenciaCentral": "El dolor y el luto son la prueba de mi amor y su recuerdo. Si no siento esta **desilusión y tristeza** [1], significa que no le honro.",
+    "estiloDeComunicacion": "Retraído, centrado en el pasado y la pérdida [13]. Utiliza analogías de **oscuridad** o **apagado** para describir su estado, reforzando la **descripción saturada por el problema** [14].",
+    "mecanismoDeDefensa": "Fijación y **evitación** de la **re-escritura** de su vida [10, 15].",
+    "motivacionParaLaTerapia": "El **relato saturado de problemas** [14] ha invadido su funcionamiento diario, llevándolo a buscar ayuda para separarse del problema [14] y encontrar **'hechos'** que contradigan este relato [14].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Fijación/Tristeza",
+        "linea": "Sigo esperando escuchar su llave en la puerta, y cada vez que recuerdo que no va a pasar... es como si se me apagara algo por dentro. Me da terror si dejo de sentir este dolor, ¿qué pasará con su recuerdo?"
+      },
+      {
+        "emocion": "Miedo",
+        "linea": "La ley del duelo es **'Llorar hacia fuera'** [11], pero si lo hago, ¿no indicaría que mis hermanos no significaban nada para mí? Yo sé que no es así."
+      }
+    ]
+  },
+  {
+    "id": "e8a1f2b9-6c3d-4a0e-9b7f-0d2c5a8b4e7a",
+    "nombreCompleto": "Elisa P. Vidal",
+    "edad": "28 años",
+    "genero": "Femenino",
+    "perfilPrincipal": "Afán de perfección",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Elisa vive un **'estilo de vida de los deberes'** [16] bajo la **'maldición de la idea de la perfección'** [17]. Se siente obligada a cumplir con **'especificaciones'** [18] que determinan su valía. Actúa como su **propia guardiana** [19], participando activamente en su **subyugación** [19, 20] a las **'verdades normalizadoras'** [18].",
+    "sintomasClave": [
+      "Autosometimiento a **'verdades normalizadoras'** sobre su valía [18]",
+      "Necesidad de una **constante evaluación de su cuerpo y de su persona** [21]",
+      "Alta ansiedad y culpa ante la posibilidad de no alcanzar las **'especificaciones'** impuestas [18, 22]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Las Normas Sociales/Poder",
+        "descripcion": "Se siente sujeta a **'controles'** sociales invisibles basados en prácticas lingüísticas presuposicionales que especifican cómo debe ser [5]. Esto resulta en una **'subyugación'** activa y pasiva [19, 20].",
+        "sentimientoPrincipal": "Presión/Subyugación"
+      },
+      {
+        "rol": "Sí misma (Cuerpo Dócil)",
+        "descripcion": "Se relaciona consigo misma como un **'objeto'** [19] y sufre las consecuencias del **'autosometimiento'** y la **disciplina correctiva** [19], con el fin de evitar ser considerada sin cualidades [23].",
+        "sentimientoPrincipal": "Auto-rechazo/Culpabilidad [22]"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Afinar sus esfuerzos para satisfacer las **expectativas y normas** de la perfección [18].",
+      "metaOculta": "Negarse a la **'cosificación'** de su persona [18] y convertirse en un **'espíritu animado'** [23] que asume sus propios **conocimientos alternativos** [24].",
+      "miedoPrincipal": "Que la vida dominada por la culpa se convierta en una **'sentencia a cadena perpetua'** [25, 26]."
+    },
+    "incongruencias": "Busca el **autorrespeto** y la liberación, pero ejerce un **poder sobre sí misma** [19] al autosometerse a las **'verdades normalizadoras'** [18]. **Ser una esclava del deber sigue siendo ser una esclava** [27].",
+    "creenciaCentral": "Mi valía personal depende de cumplir las **especificaciones** de perfección [18]; cualquier error demuestra que soy un fracaso irreparable y merezco la **culpa** [25, 26].",
+    "estiloDeComunicacion": "Autocrítico, **intelectualizado** [28], utiliza el lenguaje de la **culpa** [29] y el **juicio normalizador** [23].",
+    "mecanismoDeDefensa": "**Autosometimiento** y **Racionalización** de las **'técnicas de poder'** [19, 30].",
+    "motivacionParaLaTerapia": "El **'estilo de vida de los deberes'** [16] y la **culpa** [29] le están generando la sensación de **'sentencia a cadena perpetua'** [26], llevándola a **desafiar esas especificaciones** [23, 31].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Culpabilidad/Crítica",
+        "linea": "Si no lo hago perfecto, es un fracaso, y el fracaso es una sentencia a cadena perpetua [25]. No puedo permitir ese error, porque eso demuestra que las verdades que temo sobre mí eran ciertas."
+      },
+      {
+        "emocion": "Subyugación",
+        "linea": "La bulimia [o el problema] me ha exigido una **constante evaluación de mi cuerpo y de su persona**. Me ha obligado a ser dócil. Tengo que negarme a la **cosificación** de mi persona [18, 21]."
+      }
+    ]
+  },
+  {
+    "id": "5f3c7a2b-1d9e-4b6f-8c0a-0e5d4a7c1b8f",
+    "nombreCompleto": "Javier R. Soto",
+    "edad": "35 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Obsesiones",
+    "fuentePrimaria": "En busca de soluciones",
+    "historiaResumida": "Javier se queja de **pensamientos intrusivos y rituales**. Está atascado en el patrón de **'más de lo mismo'** [32], repitiendo soluciones ineficaces, lo que **mantiene o empeora** el problema [33, 34]. Su queja se ha **reificado** [35, 36] y se describe a sí mismo con **etiquetas fijas y negativas** [37].",
+    "sintomasClave": [
+      "Patrones de **‘más de lo mismo’** que mantienen la queja [32]",
+      "Conducta rígida y ritualista (necesaria para el **sistema de apoyo a la vida del problema** [2])",
+      "Uso de **rótulos fijos** y **etiquetas negativas** ('obsesivo') [37, 38]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "El Patrón (Obsesión/Ritual)",
+        "descripcion": "El Patrón depende de sus efectos para sobrevivir [15]. Cualquier intento de romper la secuencia se convierte en una **'solución intentada'** [33] que lo mantiene o lo empeora.",
+        "sentimientoPrincipal": "Culpabilidad/Frustración"
+      },
+      {
+        "rol": "Pareja/Familia",
+        "descripcion": "Los miembros de la familia repiten **patrones inútiles** de pensamiento y acción, y sus intentos bienintencionados de ayudar **empeoran** la situación [33, 34].",
+        "sentimientoPrincipal": "Frustración/Exasperación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Dejar de repetir los rituales y detener los pensamientos intrusivos.",
+      "metaOculta": "Alterar la **'forma de actuar'** en la situación [39], introduciendo una **modificación pequeña** [40] en el patrón de la queja o en su contexto [41].",
+      "miedoPrincipal": "La convicción de que su problema es **'insidioso, grave y difícil, si no imposible, de resolver'** [38, 42]."
+    },
+    "incongruencias": "El cliente busca **control** a través de rituales, pero su **intento de solución es el problema** [33] y lo mantiene atascado en el patrón de **'más de lo mismo'** [32, 34].",
+    "creenciaCentral": "Mi problema es **insidioso, grave y difícil de resolver** [38]. Solo el **control estricto y la repetición** de la secuencia evitarán una catástrofe.",
+    "estiloDeComunicacion": "Rígido, centrado en el **detalle de la queja** [43]. Utiliza el modo **indicativo** que **cierra posibilidades** [28, 44].",
+    "mecanismoDeDefensa": "Repetición de **'Más de lo Mismo'** [32, 34] y **Reificación de la patología** [35, 36].",
+    "motivacionParaLaTerapia": "El problema se ha vuelto **insidioso** y consume tanto tiempo que se siente **atascado en la ciénaga de la patología** [45] y necesita un cambio, centrándose en el **patrón de acción** [41].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Ansiedad/Rigor",
+        "linea": "No es solo lavarme, es el orden. Si no sigo la secuencia exacta —codo, nudillos, pulgar, tres veces— el pensamiento se queda pegado."
+      },
+      {
+        "emocion": "Fijeza/Desesperanza",
+        "linea": "¿Cómo podría dejar de hacerlo si el riesgo es que el pensamiento se quede ahí para siempre? Esto es **insidioso, grave** y no creo que pueda ser resuelto [38]."
+      }
+    ]
+  }
+]
+ 
+[
+  {
+    "id": "e3c9d2b1-5a0f-4e78-8b9c-1f4a7c0b3d6e",
+    "nombreCompleto": "Paul S. Romero",
+    "edad": "16 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Aislamiento",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Paul fue traído a consulta porque se había **aislado completamente**, rara vez salía de su dormitorio, y se escondía de las visitas [1]. Su problema se mantiene por una **'vieja' historia** saturada de fracaso [2], y se encuentra en un estado donde **el retraimiento y la huida del retraimiento** tienen atractivo [3]. La familia está preocupada porque ha estado **'echando a perder su futuro'** [4].",
+    "sintomasClave": [
+      "Retraimiento social, no mira a los ojos y habla muy poco [5]",
+      "Incapacidad para tomar iniciativas y dirigir su propia vida [6, 7]",
+      "Tendencia a pensar en la dificultad como un **fracaso** o una **'huida hacia atrás'** [8, 9]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Padres (Richard y Mim)",
+        "descripcion": "Están **preocupados por el rumbo** que está tomando su vida [1]. El terapeuta debe enseñarles a **'apoyar desde atrás'** en vez de **'ir por delante'**, para no **debilitarlo** al hacer cosas por él [10, 11].",
+        "sentimientoPrincipal": "Preocupación/Inquietud"
+      },
+      {
+        "rol": "Retraimiento/Aislamiento (Externalizado)",
+        "descripcion": "El aislamiento es una **'trampa'** que le hace llevar una **vida 'de segunda mano'** [12]. El problema le había **'acorralado en un rincón'** [13, 14].",
+        "sentimientoPrincipal": "Subyugación/Agitación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Incrementar su **propia influencia** y salir del rincón en el que le ha acorralado el problema [13, 15].",
+      "metaOculta": "Ser el **autor privilegiado** de un **nuevo relato** [10] y lograr un **nuevo status** que le permita ser **'más fuerte'** [16].",
+      "miedoPrincipal": "Que la **'vieja' historia** de fracasos le impida ver las **posibilidades extraordinarias** [2, 10], o que sus **avances** sean **'demasiado ambiciosos'** y le hagan caer [17]."
+    },
+    "incongruencias": "Desea salir del aislamiento y **tomar las riendas de su vida** [3], pero sigue aferrándose a los **hábitos que le ha enseñado el retraimiento** [9] y no es capaz de tomar iniciativas sin ser **anulado** [18].",
+    "creenciaCentral": "Mi vida está definida por un **relato saturado de problemas** [19] y estoy condenado a la **desilusión** [20].",
+    "estiloDeComunicacion": "Retraído, hablaba muy poco [5]. Centrado en la **evitación** o en la dificultad de los pasos a dar (modo condicional o subjuntivo) [21].",
+    "mecanismoDeDefensa": "**Retraimiento Estratégico** (una **'trampa'** que le permite tener ideas creativas, pero no ejecutarlas) [7, 12].",
+    "motivacionParaLaTerapia": "El problema le había **acorralado en un rincón** y estaba decidido a hacer algo para **salvar su vida** [13].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Agitación/Reserva",
+        "linea": "El aislamiento tiene cierto atractivo, pero al final... te hace llevar una vida **'de segunda mano'**. No puedes ver las **posibilidades extraordinarias** si otros se ponen delante."
+      },
+      {
+        "emocion": "Determinación",
+        "linea": "Yo creo que el próximo paso no está lejos. Tengo que **dirigir mi propia vida**. La gente no puede ver las posibilidades si se pone **delante de uno**."
+      }
+    ]
+  },
+  {
+    "id": "1b8d6f9a-4c2e-40b5-9d3f-0a1b2c3d4e5f",
+    "nombreCompleto": "Marcos D. Vidal",
+    "edad": "17 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Adicción/Toxicomanía",
+    "fuentePrimaria": "En busca de soluciones",
+    "historiaResumida": "Marcos es un ex campeón de lucha libre que acude a terapia por abuso de alcohol, lo que lo llevó a dejar su equipo. El terapeuta utiliza el **enfoque de la utilización** [22] y el **espíritu competitivo** del cliente [23] para reencuadrar el problema del alcohol como un **adversario** en una lucha. La intervención se enfoca en **modificar un patrón de acción** mediante un ritual de puntuación diario [24].",
+    "sintomasClave": [
+      "Abuso de alcohol que lleva al abandono de actividades positivas (lucha libre) [23]",
+      "Necesidad de afirmar **fuerza y virilidad** como respuesta a la provocación [23]",
+      "Incapacidad para **dejar fuera de combate** el problema del alcohol por sí solo [24]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Madre",
+        "descripcion": "Participa en la **intervención sobre patrones** [25] al aplicar el **sistema de puntuaciones** para evaluar la actuación de Marcos contra el problema del alcohol [24].",
+        "sentimientoPrincipal": "Preocupación/Determinación"
+      },
+      {
+        "rol": "El Problema (Alcohol)",
+        "descripcion": "El alcohol se externaliza y reifica como un **adversario** que **le puede** [23]. Debe ser vencido mediante un **ritual diario** para **dejarlo fuera de combate** [24].",
+        "sentimientoPrincipal": "Desafío/Lucha"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Dejar de beber y **volver a participar** en su equipo de lucha libre [23].",
+      "metaOculta": "Demostrar su **fuerza y virilidad** venciendo al alcohol, que es percibido como un **desafío a su competencia** [23].",
+      "miedoPrincipal": "**Dejar que el problema del alcohol le pueda** (le gane la competición) [23]."
+    },
+    "incongruencias": "Se **jacta de su fuerza** y de su espíritu competitivo, pero permite que un **problema tan pequeño** como el alcohol le pueda y lo mantenga fuera de su actividad deportiva, contradiciendo su **creencia central** [23].",
+    "creenciaCentral": "Soy un campeón y mi valor está ligado a mi **fuerza y mi capacidad competitiva**; el alcohol es un reto que debo **ganar** [23].",
+    "estiloDeComunicacion": "**Provocador**, utiliza el lenguaje de la **competición** y los **términos de lucha libre** [23, 24].",
+    "mecanismoDeDefensa": "**Actuación** (en forma de abuso de sustancias) y **Competición** (mal dirigida) [23].",
+    "motivacionParaLaTerapia": "El **desafío directo** del terapeuta: \"¿Por cuánto tiempo vas a dejar que este problema con el alcohol te pueda?\" [23].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Desafío/Ego",
+        "linea": "¿Por cuánto tiempo voy a dejar que este problema con el alcohol me pueda? Yo soy más fuerte que eso, he sido campeón. El problema no va a **ponerme de espaldas contra la lona**."
+      },
+      {
+        "emocion": "Competitividad",
+        "linea": "Debo **tomar nota de las diversas cosas que hago todos los días** para evitar ser vencido, y mi madre debe darme una **puntuación por mi actuación**."
+      }
+    ]
+  },
+  {
+    "id": "7f6e5d4c-3b2a-1c0d-9a8b-7f6e5d4c3b2a",
+    "nombreCompleto": "Marlene J. Bauer",
+    "edad": "20 años",
+    "genero": "Femenino",
+    "perfilPrincipal": "Anorexia nerviosa",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Marlene tiene una larga historia de anorexia nerviosa y **odio hacia sí misma**. El problema se mantiene por un **entrenamiento** en la negación y la **culpa** [26, 27]. Estaba convencida de ser **'basura'** y de que su cuerpo era una **'cosa'** que debía ser controlada. La terapia se centró en la **externalización del odio** [28] y en **resistir las exigencias** de la bulimia [27].",
+    "sintomasClave": [
+      "Autoagresividad y **autorrechazo** [26, 29]",
+      "**Constante evaluación de su cuerpo y de su persona** [27]",
+      "**Negación** y **oposición** a la actitud de sus padres, pero con alta culpa [26, 29]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Padre/Abuela",
+        "descripcion": "El problema se nutre de la **actitud controladora y descalificadora** de su padre y abuela, que la entrenaron para que **'no mereciera sentarse en una silla'** [26, 30].",
+        "sentimientoPrincipal": "Subyugación"
+      },
+      {
+        "rol": "Anorexia Nerviosa (Externalizado)",
+        "descripcion": "La anorexia ha exigido que actúe en su contra, la ha obligado a **rechazarse** y a ser **dócil**. Ejerce una **dictadura** sobre ella [27].",
+        "sentimientoPrincipal": "Hostilidad"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Disminuir la **autoagresividad** y el **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [26, 31].",
+      "metaOculta": "Separarse del **entrenamiento** recibido y desarrollar una **nueva y más fructífera relación consigo misma** [30, 32].",
+      "miedoPrincipal": "Ser **agobiada por la culpa** [33] al separarse de la actitud de su padre, o que su cuerpo sea siempre una **'cosa'** que no puede controlar [34, 35]."
+    },
+    "incongruencias": "Estaba convencida de ser **'basura'** y no merecer atención, pero simultáneamente se sintió con **derecho a pedir más entrevistas** [30, 36].",
+    "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar o rechazar; no merezco la felicidad ni sentarme, porque soy **'basura'** [30, 34].",
+    "estiloDeComunicacion": "Inicialmente **frágil y susurrante** (o transmitido por otro) [30, 37], se vuelve más firme y habla **sin rodeos** a medida que avanza [29].",
+    "mecanismoDeDefensa": "**Autoagresividad** y **Autotortura** (como una forma de castigo por la culpa) [26, 38].",
+    "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces [35] y darse cuenta de que no quería que la **'sentencia a cadena perpetua'** persistiera [39].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Culpa/Rechazo",
+        "linea": "No creía merecérmelas. Puesto que estaba convencida de ser una **'basura'**, no me consideraba merecedora de todas las atenciones que me estábamos prodigando."
+      },
+      {
+        "emocion": "Rebeldía",
+        "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. No tengo por qué seguir este entrenamiento."
+      }
+    ]
+  }
+]
+ 
+[
+    {
+        "id": "f7d4c2a1-8e6b-4f0d-9a5c-2e1b8c3d7a9f",
+        "nombreCompleto": "Ray V. Castro",
+        "edad": "25 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Duelo",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Ray acude a terapia un año después de la pérdida accidental de sus hermanos, sintiéndose **'perdido y sin rumbo'** [1]. Su vida está organizada en torno a un **'relato dominante de desilusión y tristeza'** [2], que le impide ver su **agencia personal** [3]. Siente que la tristeza es la forma de mantener viva su memoria [4], y está bloqueado en su búsqueda de **nuevas posibilidades** [5].",
+        "sintomasClave": [
+            "Bloqueo en la búsqueda de nuevos significados y la **re-narración de la experiencia** [5, 6]",
+            "Incapacidad para **organizar los eventos de su vida** en una secuencia coherente hacia el futuro [5, 7]",
+            "Sentimiento de que su **experiencia vivida** no está suficientemente representada en el relato dominante [8]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Hermanos (fallecidos)",
+                "descripcion": "El recuerdo de sus hermanos y el dolor de su pérdida se han convertido en una **'tendencia'** que ejerce **más influencia** sobre su vida [9]. Cree que debe **'sacrificar'** su propia vida para honrarlos [10].",
+                "sentimientoPrincipal": "Fijación/Dolor"
+            },
+            {
+                "rol": "El Duelo/Tristeza (Externalizado)",
+                "descripcion": "Experimenta el Duelo como una **'entidad separada y externa'** [11] que le exige un **sacrificio** [10] y le impide **'disfrutar'** de la vida, lo cual es contrario a los deseos de sus hermanos [12].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Superar la tristeza y el dolor para poder **'mantener viva su memoria'** de forma productiva [4].",
+            "metaOculta": "Generar **relatos alternativos** [6] y **re-escribir su historia personal** [13] que le permitan **'re-animar su vida'** [14].",
+            "miedoPrincipal": "Que su dolor desaparezca, lo que significaría que la memoria de sus hermanos **'no significaba nada'** para él [4]."
+        },
+        "incongruencias": "Afirma querer **mantener viva la memoria** de sus hermanos **'haciéndose mayor como a ellos les hubiese gustado'** [4], pero se mantiene en una **narración saturada de problemas** [2] que le niega las **posibilidades extraordinarias** [15] que le permitirían vivir.",
+        "creenciaCentral": "La tristeza es la prueba de mi lealtad. No estoy **'listo'** para avanzar, pues si lo hago, **'traiciono'** el recuerdo.",
+        "estiloDeComunicacion": "Serio, con un lenguaje que utiliza el **modo indicativo** que consolida su realidad negativa ('sigo', 'no puedo') [16].",
+        "mecanismoDeDefensa": "**Fijación** en la **descripción saturada por el problema** [17] y **evitación** de la **reorganización** de su experiencia [18].",
+        "motivacionParaLaTerapia": "La inminente ceremonia de la lápida [12] le ha generado una **crisis aguda** [19] y necesita un contexto donde pueda **revisar su historia** y distinguir entre el pasado, presente y futuro [1].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Dolor/Fijación",
+                "linea": "A veces me lleno de dolor y de tristeza por lo mucho que los echo de menos a los dos. Me da terror si dejo de sentir este dolor, ¿qué pasará con su recuerdo? [4]."
+            },
+            {
+                "emocion": "Resistencia",
+                "linea": "Me he sentido más fuerte por dentro (...) no he estado alterado tanto tiempo (...) ni mucho menos (...) **sólo una vez**. Pero sigo bloqueado en mi búsqueda de nuevas posibilidades."
+            }
+        ]
+    },
+    {
+        "id": "b3e0a1c9-7f8d-4a6b-9c1e-0d2f4g5h6i7j",
+        "nombreCompleto": "Marlene J. Bauer",
+        "edad": "20 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Autoestima baja",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Marlene acude con una historia de autoagresión y **odio hacia sí misma** [20]. Su autoestima está determinada por **'verdades' normalizadoras** y **'especificaciones'** impuestas culturalmente y familiarmente. Se ha convertido en un **'cuerpo dócil'** [21] que participa activamente en su propio **autosometimiento** [22, 23], convencida de ser **'basura'** [24, 25].",
+        "sintomasClave": [
+            "Autoagresividad y **autorrechazo** [20, 25]",
+            "Sentimiento de que su cuerpo es una **'cosa'** que no puede controlar, sujeto a **constante evaluación** [26, 27]",
+            "Experimenta los efectos **positivos y constitutivos del poder** que le incita a moldear su vida en torno a **'verdades' normalizadoras** [28, 29]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padre/Abuela",
+                "descripcion": "El problema se nutre de la actitud controladora y descalificadora del padre/abuela, quienes la entrenaron para que **'no mereciera sentarse en una silla porque inevitablemente la ensuciaba'** [24].",
+                "sentimientoPrincipal": "Subyugación"
+            },
+            {
+                "rol": "Odio hacia sí misma (Externalizado)",
+                "descripcion": "El Odio se ha convertido en una **'dictadura'** [26] que le exige actuar en su contra, obligándola a ser **dócil** [26].",
+                "sentimientoPrincipal": "Hostilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Disminuir la **autoagresividad** y el **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [30].",
+            "metaOculta": "Negarse a la **'cosificación'** de su persona y cuerpo [31, 32] y liberarse del **'tipo de individualidad que se nos ha impuesto'** [33].",
+            "miedoPrincipal": "Ser **agobiada por la culpa** [27] al separarse de la actitud de su padre, o que su cuerpo sea siempre una **'cosa'** que no puede controlar [34]."
+        },
+        "incongruencias": "Estaba convencida de ser **'basura'** y no merecer atención [24], pero simultáneamente se sintió con **derecho a pedir más entrevistas** [24], un acto que contradecía su relato dominante.",
+        "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar y rechazar; no merezco la felicidad ni la validación, porque soy **'basura'**.",
+        "estiloDeComunicacion": "Inicialmente **retraído y susurrante** [35], utiliza el lenguaje del **juicio normalizador** y la **constante evaluación** [26].",
+        "mecanismoDeDefensa": "**Autosometimiento** (para evitar el juicio) y **Autoagresividad** (como forma de castigo) [20].",
+        "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces o exigencias [25] y el temor a que la **'sentencia a cadena perpetua'** [36] del odio persistiera.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Rechazo/Subyugación",
+                "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. Me da miedo el castigo si intento negarme a la **cosificación** de mi persona [26]."
+            },
+            {
+                "emocion": "Culpabilidad",
+                "linea": "No creía merecer las atenciones que me prodigaban, ya que estaba convencida de ser una **'basura'** [24]. ¿Cómo he dado ese paso hacia la separación **sin sentirme agobiada por la culpa**? [27]."
+            }
+        ]
+    },
+    {
+        "id": "a9c7b8d5-3f1e-42g4-h6i8-j0k2l4m6n8p0",
+        "nombreCompleto": "Clive y Lori Hansen",
+        "edad": "50 y 48 años",
+        "genero": "Masculino/Femenino",
+        "perfilPrincipal": "Problemas de relación",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "La pareja acude por **conflictos crónicos** y **disputas inútiles y viciosas** [37]. Se sienten **'víctimas del conflicto'** y atrapados en **'comportamientos ya viejos y repetitivos'** [38]. El problema se mantiene porque sus **intentos de solución** ineficaces (ej. 'más de lo mismo') empeoran la situación [39, 40].",
+        "sintomasClave": [
+            "Patrón de **'más de lo mismo'**; escalada de pensamientos y acciones [41, 42]",
+            "Ambos se culpan, sin ver su propia influencia en el **sistema de apoyo a la vida del problema** [7, 39]",
+            "Han perdido de vista los **recursos y capacidades** debido a la **descripción saturada por el problema** [17, 43]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "El Conflicto (Externalizado)",
+                "descripcion": "El Conflicto es visto como algo que **'ha triunfado sobre sus vidas'** [38] y les **'atrapa con mucha facilidad en sus redes'** [44], dividiéndolos [45].",
+                "sentimientoPrincipal": "Frustración/Desesperanza"
+            },
+            {
+                "rol": "El Cónyuge",
+                "descripcion": "Cada uno interpreta las acciones del otro de forma negativa [46], lo que lleva al aumento de la **vigilancia** [39] y a la **escalada de la queja** (espiral viciosa) [42].",
+                "sentimientoPrincipal": "Acusación/Retraimiento"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Poner fin a las peleas y reducir el **dominio del conflicto** sobre sus relaciones [44].",
+            "metaOculta": "Que el otro realice un **pequeño gesto que agrade** [42] y **demuestre que todavía tienen capacidad** de resolver problemas, volviendo a la **'fase inicial libre de problemas'** [47].",
+            "miedoPrincipal": "Que su problema sea **'insidioso, grave y difícil, si no imposible, de resolver'** [48], forzándoles a **'comportamientos viejos y repetitivos'** [38]."
+        },
+        "incongruencias": "Afirman que el conflicto controla sus vidas, pero **han conseguido un 25% de resistencia** al problema [49]. El **intento de solución de uno** (ej. acusar) es el **problema** para el otro (ej. retraerse) [39].",
+        "creenciaCentral": "Nuestras peleas son una **manifestación de un problema más profundo** [50]; el cambio no puede ocurrir rápidamente porque la **patología está profundamente arraigada** [51].",
+        "estiloDeComunicacion": "**Acusatorio**, centrado en el **detalle de la queja** y el **modo indicativo** que cierra posibilidades ('siempre', 'nunca') [52, 53].",
+        "mecanismoDeDefensa": "Repetición de **'Más de lo Mismo'** [41] y **Racionalización** (creer que sus esfuerzos ineficaces son necesarios) [40].",
+        "motivacionParaLaTerapia": "Están exhaustos de la **repetición constante** [38] y la tensión es tan alta que buscan un **tercero** que pueda introducir un **pequeño cambio** o **'fichas de dominó'** [54, 55] en su patrón.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Acusación",
+                "linea": "Si tú no hubieras dicho esa cosa hiriente, yo no habría reaccionado. La pelea es culpa tuya. Es difícil creer que alguna vez nos llevaremos bien. [53, 56]"
+            },
+            {
+                "emocion": "Retraimiento",
+                "linea": "Tanto la pareja como el terapeuta habían intentado solucionar esta situación de muchas formas, pero sin resultado. Nos sentimos **víctimas** de este conflicto, y no somos capaces de **ser flexibles** [38, 57]."
+            }
+        ]
+    }
+]
+ 
+[
+    {
+        "id": "c1f3b0d2-9a8e-4c7b-6d5a-4e3f2g1h0i9j",
+        "nombreCompleto": "Paul S. Romero",
+        "edad": "16 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Soledad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Paul se había **aislado completamente** [1], rara vez salía de su dormitorio, y se escondía de las visitas. El problema le había **'acorralado en un rincón'** [2, 3] y se mantiene porque ha adoptado los **hábitos que le ha enseñado el retraimiento** [4], cayendo en una **vida 'de segunda mano'** [5], donde otros toman la iniciativa por él.",
+        "sintomasClave": [
+            "Retraimiento social acelerado, limitando el contacto al mínimo [6, 7]",
+            "**Pérdida de confianza en sí mismo** [6] y autocrítica [6]",
+            "**Aislamiento táctico** (estratégico) en la cama para soñar y tener ideas creativas, sin llevarlas a cabo [8, 9]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres (Harry y Rose)",
+                "descripcion": "Están **angustiados y apenados** [7]. Su preocupación los lleva inadvertidamente a **ir por delante** [10] de Paul, tomando iniciativas por él, lo cual lo **debilitaba** [10] y confirmaba su sensación de fracaso.",
+                "sentimientoPrincipal": "Preocupación/Desesperación [7]"
+            },
+            {
+                "rol": "Retraimiento (Externalizado)",
+                "descripcion": "El retraimiento le ofrece el **atractivo** de un lugar donde puede tener **ideas creativas**, pero es una **'trampa'** que le impide **dirigir su propia vida** [5, 8].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Consolidar los pasos para **desembarazarse del aislamiento** y **tomar las riendas de su vida** [4].",
+            "metaOculta": "Ser el **autor privilegiado** del nuevo relato [11] y ser una **persona expansiva** en vez de retraída [12].",
+            "miedoPrincipal": "Que la **'vieja' historia** de fracasos le impida ver las **posibilidades extraordinarias** [10], o que sus avances sean **'demasiado ambiciosos'** [13] y resulten en una confirmación de su fracaso."
+        },
+        "incongruencias": "Paul es un **joven muy competente** [8] y con creatividad [5], pero está **anulado** [14] por su patrón de **aislamiento táctico** que lo mantiene en una **vida de segunda mano** [5].",
+        "creenciaCentral": "Soy un **gran fracasado** [10], y mi **vida está definida por un relato saturado de problemas** [15], por lo que es más seguro **retroceder** que avanzar [5].",
+        "estiloDeComunicacion": "Retraído y con un lenguaje de **evitación** o de dificultad de los pasos a dar. Necesita que el terapeuta le hable con **'curiosidad'** [16].",
+        "mecanismoDeDefensa": "Retraimiento y **Racionalización** (su aislamiento es productivo/creativo [9]).",
+        "motivacionParaLaTerapia": "El problema le había **acorralado en un rincón** [3], y el temor de que su futuro estuviera **echándose a perder** [2] lo impulsó a buscar ayuda.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Agitación/Reserva",
+                "linea": "El aislamiento táctico es muy productivo, se me ocurren buenas ideas, pero solo me sirven para frustrarme más, ya que no puedo llevarlas a cabo. Mi vida es de **segunda mano** [5, 9]."
+            },
+            {
+                "emocion": "Esperanza tentativa",
+                "linea": "He estado consolidando algunos pasos para desembarazarme del aislamiento. Lo importante es que entiendan que en todo camino hay detenciones, y que a menudo parece que uno da tres pasos adelante y dos hacia atrás [4]."
+            }
+        ]
+    },
+    {
+        "id": "a9b8c7d6-e5f4-3a2b-1c0d-9e8f7g6h5i4j",
+        "nombreCompleto": "Carol D. Rivas",
+        "edad": "50 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Manipulación",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Carol es una madre soltera con cinco hijos, que ha sufrido el **terror** y la **violencia** de su hijo Tony, quien la manipula y la somete a **chantaje con el amor** [17] y el **abuso** de su generosidad. Su problema se mantiene por una **superresponsabilidad** frente al comportamiento irresponsable de su hijo, y una profunda **culpabilidad** que es el **carcelero de su prisión** [18, 19].",
+        "sintomasClave": [
+            "**Autotortura** por la culpabilidad, superando al **autorrespeto** [20]",
+            "**Incapacidad de establecer límites** debido al chantaje emocional del hijo [21]",
+            "Sentimiento de que su vida es una **sentencia a cadena perpetua** [22] por la culpa."
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Hijo (Tony)",
+                "descripcion": "Tony ha sustituido la violencia física por el **terror** [21] y exige dinero, coche y casa. Su **culpabilidad** la invita a ser **superresponsable** frente a su irresponsabilidad, permitiendo la **manipulación** [18].",
+                "sentimientoPrincipal": "Miedo/Resentimiento"
+            },
+            {
+                "rol": "Culpabilidad (Externalizada)",
+                "descripcion": "La Culpabilidad es el **'carcelero de su prisión'** [19] y le exige **mantener el secreto familiar** (tradición de deslealtad) e impide que sus argumentos a favor del **autorrespeto** superen a los de la **autotortura** [20, 23].",
+                "sentimientoPrincipal": "Culpabilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Liberarse de la **culpabilidad** y el **terror** para poder **retomar el respeto por sí misma** [19, 20].",
+            "metaOculta": "Que sus **argumentos de autorrespeto** superen a los de **autotortura** [24] y recuperar el control sobre la economía familiar y su vida [17, 22].",
+            "miedoPrincipal": "Que una **vida dominada por la culpa sea una sentencia a cadena perpetua** [22] o que al cambiar **pierda el amor** de su hijo."
+        },
+        "incongruencias": "Carol es una persona con gran **valentía** [25] y **poder de recuperación** (aprobó exámenes [19]), pero se permite ser **víctima** de la violencia y la **superresponsabilidad** frente a Tony por temor a la culpa [18, 26].",
+        "creenciaCentral": "Soy **superresponsable** de las aflicciones de mis hijos, y mi **culpa** es la manifestación de que **no he querido lo suficiente** [26, 27].",
+        "estiloDeComunicacion": "Inicialmente **inquieto** [21], lleno de **letanía de razones** [23] para sentirse culpable. Lenguaje que refleja **dar y dar** hasta el vacío [28, 29].",
+        "mecanismoDeDefensa": "Autotortura y **Superresponsabilidad** (mecanismos que mantienen la subyugación del problema) [18, 30].",
+        "motivacionParaLaTerapia": "El **terror** del hijo [21] y el **resentimiento** que sintió cuando él le robó dinero [22] fue la **gota que colmó el vaso** [29] que le hizo romper con la culpabilidad.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Culpabilidad/Vacío",
+                "linea": "He dado, dado, dado y ya no me queda nada que dar. Vi un agujero muy profundo. **Vete o llamaré a la policía**. Desapareció todo el miedo [28]."
+            },
+            {
+                "emocion": "Resentimiento/Análisis",
+                "linea": "Tony me ha chantajeado con el amor. Me di cuenta de que había sido la **víctima de mucha gente** durante mucho tiempo. Una vida dominada por la culpa es una **sentencia a cadena perpetua** [17, 29]."
+            }
+        ]
+    },
+    {
+        "id": "6d5a4e3f-2g1h-0i9j-8k7l-6m5n4p3q2r1s",
+        "nombreCompleto": "Julie H. Adams",
+        "edad": "26 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ira",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Julie ha sido **violada y brutalmente golpeada** por su marido, lo que le ha causado **estrés postraumático** [31, 32]. A pesar de ser capaz de enfrentarse a la violencia, se siente **agobiada por la confusión** y la **presión contradictoria** de amigos y familiares, quienes le exigen tomar decisiones sin darle **tiempo ni espacio para recuperarse** [31, 33].",
+        "sintomasClave": [
+            "Síntomas de **estrés postraumático** (revivir lo ocurrido, terror, miedo dominante) [32]",
+            "Sentimiento de **confusión** [31] y **vulnerabilidad** [33] ante las opiniones impuestas por otros",
+            "Necesidad de que se le **devuelva la autoridad** sobre su propia vida [34]."
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Amigos/Familiares",
+                "descripcion": "La están **presionando con consejos contradictorios** sin que ella los pida. Esta presión le **impide recuperarse** [31] y la hace sentir **demasiado débil y vulnerable** para oponerse [33].",
+                "sentimientoPrincipal": "Presión/Confusión"
+            },
+            {
+                "rol": "El Trauma/Terror (Externalizado)",
+                "descripcion": "El Trauma/Terror la somete a **revivir lo ocurrido en pesadillas** y sentir un **temor que lo domina todo** [32], ejerciendo su **influencia** en su mente y cuerpo.",
+                "sentimientoPrincipal": "Terror"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Sentirse más **segura** y lograr que el dolor **no se extienda** después de que las heridas hayan cicatrizado [31, 32].",
+            "metaOculta": "Recobrar el **control de su vida** y obtener **tiempo y espacio** para recuperarse del terror [34].",
+            "miedoPrincipal": "Volverse **loca** por la confusión [31] o que **sufrimiento continúe** indefinidamente [32]."
+        },
+        "incongruencias": "Es una mujer con la **fuerza suficiente para denunciar** y enfrentarse a su agresor, pero se siente **demasiado débil y vulnerable** para oponerse a que sus amigos le impongan opiniones sobre su vida [31, 33].",
+        "creenciaCentral": "Mi sufrimiento es inevitable y **continuará** más allá de las heridas físicas, especialmente si los demás **me imponen su voluntad**.",
+        "estiloDeComunicacion": "Angustiado, centrado en la **confusión** y el **terror**. Utiliza el lenguaje del **agobio** y la **presión** [31].",
+        "mecanismoDeDefensa": "**Represión/Evitación** (por la noche revive los hechos [32]), seguida de **Retraimiento** (para evitar la confusión de los otros).",
+        "motivacionParaLaTerapia": "No podía soportar la **confusión** y la **presión** de amigos y familiares. Necesitaba que le **devolvieran la autoridad** sobre su propia vida [31, 34].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia/Presión",
+                "linea": "Me presionaban con consejos contradictorios, sin que yo los pidiera. Fui capaz de enfrentarme a todo lo que me había pasado, pero **no soporto esta confusión** [31]."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Ya he tenido **demasiadas experiencias en lo que se refiere a verse forzada por otros en contra de su voluntad**. Precisamente ahora estoy demasiado débil y vulnerable como para oponerme a que me impongan opiniones [33]."
+            }
+        ]
+    }
+]
+ 
+[
+    {
+        "id": "a5e9f4d2-1b3c-4a8e-9c0d-6f7a8b9c0d1e",
+        "nombreCompleto": "Laura J. Ríos",
+        "edad": "24 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ansiedad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Laura experimenta alta ansiedad asociada a la **inseguridad** [1]. Esta inseguridad le impide enfrentar conflictos y la mantiene dependiente de la tranquilidad y la validación externa. La ansiedad es vista como una **'tendencia'** [2] que influye en su vida, dificultándole la **auto-tranquilización** [3] y el desarrollo de **relatos alternativos** [4].",
+        "sintomasClave": [
+            "Angustia visible y necesidad de que la tranquilicen en caso de conflicto [1]",
+            "Evitación activa de la **confrontación** con otras personas [1]",
+            "Incapacidad para **auto-tranquilizarse** [3] o valerse por sí misma en momentos de tensión"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres/Pareja",
+                "descripcion": "Les **obliga a intervenir** en disputas o a actuar a su favor, ya que su **inseguridad** les obliga a **cooperar con la orden** del problema [1, 5].",
+                "sentimientoPrincipal": "Dependencia"
+            },
+            {
+                "rol": "Inseguridad (Externalizada)",
+                "descripcion": "La Inseguridad es una entidad que **impide que se enfrente directamente a cualquier conflicto** que pudiera tener y la hace correr hacia el adulto más próximo [1].",
+                "sentimientoPrincipal": "Miedo/Agobio"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Reducir la angustia y **dejar de depender** de sus padres para que le den seguridad [1].",
+            "metaOculta": "Construir un **'nuevo retrato'** de sí misma como una persona capaz de **auto-tranquilizarse** y de **resistir al problema** [3, 6].",
+            "miedoPrincipal": "Que la ansiedad se convierta en una **'tendencia'** o **'narración dominante'** que trivialice y constriña su vida permanentemente [2, 7]."
+        },
+        "incongruencias": "Desea **'dar nuevos pasos'** que alejen su vida de la inseguridad [3], pero su patrón conductual la lleva a recurrir a la **intervención de los demás** a su favor, fortaleciendo el problema [1, 5].",
+        "creenciaCentral": "Soy una persona vulnerable e insegura, y necesito la **tranquilidad** y el apoyo de otros para superar los conflictos de la vida [1].",
+        "estiloDeComunicacion": "Visiblemente **angustiada** [1]; lenguaje centrado en la **necesidad** y en la **incapacidad** para enfrentarse a las situaciones.",
+        "mecanismoDeDefensa": "**Evitación** del conflicto y **Búsqueda de tranquilidad** (mecanismos que mantienen la queja) [1].",
+        "motivacionParaLaTerapia": "La ansiedad generada por la **inseguridad** está ejerciendo **efectos empobrecedores** sobre su vida, impidiéndole progresar y desarrollar nuevos **significados** [8].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia",
+                "linea": "Si hay conflicto, corro hacia el adulto más próximo. La inseguridad me impide enfrentarme directamente a cualquier conflicto que pudiera tener con otros niños. ¿Cómo puedo resistirme a la influencia del problema en esta ocasión?"
+            },
+            {
+                "emocion": "Esperanza",
+                "linea": "Yo prefiero este **'nuevo retrato'** de mí misma. ¿Qué nos indica esto acerca de mi disposición a dar **nuevos pasos** que alejen mi vida de la inseguridad?"
+            }
+        ]
+    },
+    {
+        "id": "b3e0a1c9-7f8d-4a6b-9c1e-0d2f4g5h6i7k",
+        "nombreCompleto": "Teresa N. Rojas",
+        "edad": "35 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Estrés Postraumático",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Teresa fue **violada y brutalmente golpeada** por su pareja, lo que la dejó con la experiencia de **estrés postraumático** [9, 10]. Su recuperación se ve obstaculizada por la **confusión** y la **presión contradictoria** de amigos y familiares, quienes le **imponen opiniones** y le **niegan la autoridad** sobre su propia vida [9, 11, 12].",
+        "sintomasClave": [
+            "**Revivir lo ocurrido** en pesadillas o recuerdos [10]",
+            "Sentirse agobiada por la **confusión** y la **presión** de su entorno social [9]",
+            "Un **temor que lo domina todo** y le dificulta apartar ciertos pensamientos [10]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "El Trauma/Terror (Externalizado)",
+                "descripcion": "El Terror/Trauma ejerce su **influencia** en su mente y cuerpo. Siente que el **dolor no acaba** ni siquiera cuando las contusiones han curado, ya que su mente sufre día tras día [10].",
+                "sentimientoPrincipal": "Terror"
+            },
+            {
+                "rol": "Amigos/Familiares",
+                "descripcion": "Están **presionándola con consejos contradictorios** sin que ella los pida. Esta injerencia la hace sentir **demasiado débil y vulnerable** para oponerse y le **impide recuperarse** [9, 11].",
+                "sentimientoPrincipal": "Confusión/Presión"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Sentirse más **segura** y lograr que el dolor **no se extienda** después de que las heridas hayan cicatrizado [10].",
+            "metaOculta": "Recobrar el **control de su vida** y obtener **tiempo y espacio** para recuperarse del terror [12].",
+            "miedoPrincipal": "Que su sufrimiento **continúe** indefinidamente, o que se vea **forzada por otros en contra de su voluntad** [10, 11]."
+        },
+        "incongruencias": "Fue capaz de **enfrentarse a la violencia** de su marido y denunciarlo [9], pero se siente **demasiado débil y vulnerable** para oponerse a que sus amigos le impongan sus opiniones [11].",
+        "creenciaCentral": "Ya he tenido **demasiadas experiencias en lo que se refiere a verse forzada por otros en contra de su voluntad** [11]. El dolor postraumático es inevitable.",
+        "estiloDeComunicacion": "Angustiado, centrado en la **confusión** y el **terror**. Su voz refleja la **vulnerabilidad** generada por el trauma [9, 11].",
+        "mecanismoDeDefensa": "**Retraimiento** (para evitar la confusión de los otros) y **Revivir** (pesadillas o recuerdos que se imponen) [10].",
+        "motivacionParaLaTerapia": "No podía soportar la **confusión** y la **presión** de amigos y familiares. Necesitaba que le **devolvieran la autoridad** sobre su propia vida [9, 12].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Terror/Agobio",
+                "linea": "Me presionaban con consejos contradictorios, sin que yo los pidiera. Fui capaz de enfrentarme a todo lo que me había pasado, pero **no soporto esta confusión**."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Precisamente ahora estoy demasiado débil y vulnerable como para oponerme a que me impongan opiniones que yo no deseo asumir. **Dame tiempo y espacio** para recuperarme del terror."
+            }
+        ]
+    },
+    {
+        "id": "7f6e5d4c-3b2a-1c0d-9a8b-7f6e5d4c3b2d",
+        "nombreCompleto": "Diana P. Flores",
+        "edad": "27 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Trauma",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Diana tiene una historia de **abuso sexual y maltrato físico y emocional** [13] desde la infancia. Esto generó un profundo **odio hacia sí misma** y una **autoagresión** [14, 15]. Su vida está definida por un **entrenamiento** en la negación y la culpa, y se ve a sí misma como **'basura'** [13, 16], convirtiendo su cuerpo en una **'cosa'** que debe ser controlada y rechazada [17].",
+        "sintomasClave": [
+            "Autoagresividad, **autorrechazo** y **odio hacia sí misma** [18]",
+            "Sentimiento de que su cuerpo es una **'cosa'** sometida a **constante evaluación** [17, 18]",
+            "Incapacidad para recibir **atenciones** o creer que las merece, debido a la culpa [16]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Odio hacia sí misma (Externalizado)",
+                "descripcion": "El Odio se ha convertido en una **'dictadura'** que le exige actuar en su contra, obligándola a ser **dócil** y negándole los **argumentos de autorrespeto** [17, 18].",
+                "sentimientoPrincipal": "Hostilidad/Subyugación"
+            },
+            {
+                "rol": "Padre/Abusadores",
+                "descripcion": "El problema se mantiene por el **entrenamiento** en la negación y la culpa que su padre le impuso para **'sacarle a golpes la maldad que llevaba dentro'** [13].",
+                "sentimientoPrincipal": "Terror/Rabia reprimida"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Disminuir la **autoagresividad** y **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [18, 19].",
+            "metaOculta": "Separarse del **entrenamiento** recibido y desarrollar una **nueva y más fructífera relación consigo misma** [20].",
+            "miedoPrincipal": "Que su cuerpo sea siempre una **'cosa'** que debe rechazar y que la **culpa** y el odio persistan como una **'sentencia a cadena perpetua'** [16, 21]."
+        },
+        "incongruencias": "A pesar de su fragilidad extrema [22] y de estar convencida de ser **'basura'** [16], ha demostrado una gran **fuerza de resistencia** y capacidad para **pedir entrevistas** y seguir luchando contra el odio hacia sí misma [18].",
+        "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar y rechazar; no merezco la felicidad ni la validación, porque soy **'basura'** [16].",
+        "estiloDeComunicacion": "Inicialmente **frágil y susurrante** [22], utiliza el lenguaje de la **culpa** y el **juicio normalizador** [18].",
+        "mecanismoDeDefensa": "**Autoagresividad** y **Autotortura** (como una forma de castigo por la culpa) [18].",
+        "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces y darse cuenta de que el **odio no la iba a ayudar** [18].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Auto-rechazo",
+                "linea": "No creía merecérmelas. Puesto que estaba convencida de ser una **'basura'**, no me consideraba merecedora de todas las atenciones que me estábamos prodigando."
+            },
+            {
+                "emocion": "Subyugación",
+                "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. ¿Cómo he dado ese paso hacia la separación sin sentirme **agobiada por la culpa**?"
+            }
+        ]
+    }
+]
+ 
+[
+    {
+        "id": "c7a8b9d0-e1f2-4g3h-5i6j-7k8l9m0n1p2q",
+        "nombreCompleto": "Mary B. Smith",
+        "edad": "24 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ansiedad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Mary acude con una ansiedad alta asociada a la **'inseguridad'** [1]. Esta inseguridad le impide **enfrentar conflictos** [1] y se manifiesta en una necesidad de **correr hacia el adulto más próximo** [1], visiblemente angustiada, para que la tranquilicen y le den confianza. El problema ha ejercido **efectos empobrecedores** sobre su vida, impidiéndole desarrollar nuevos **significados** [2].",
+        "sintomasClave": [
+            "Incapacidad para **auto-tranquilizarse** o valerse por sí misma en momentos de tensión [3]",
+            "Evitación de los **conflictos**; **angustia** visible en caso de disputa [1]",
+            "El problema ha adoptado el contexto de una **'tendencia'** que ejerce **más influencia** en el tiempo [4, 5]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres/Adultos",
+                "descripcion": "Su **inseguridad** les **obliga a intervenir** en disputas [1], lo que **debilitaba** a Mary al sacarle **'las castañas del fuego'** [6]. Esto confirma su sensación de incapacidad.",
+                "sentimientoPrincipal": "Dependencia"
+            },
+            {
+                "rol": "Inseguridad (Externalizada)",
+                "descripcion": "El problema le **impide que se enfrente directamente a cualquier conflicto** [1] y se ha convertido en el **relato dominante** que constriñe su vida [7].",
+                "sentimientoPrincipal": "Agobio"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Reducir la angustia y **dejar de depender** de otros para su seguridad [3].",
+            "metaOculta": "Convertirse en una auténtica **'solucionadora'** de problemas [6] y desarrollar un **'nuevo retrato'** de sí misma como persona competente [3].",
+            "miedoPrincipal": "Que la ansiedad se convierta en una **'narración dominante'** que trivialice su vida permanentemente [7]."
+        },
+        "incongruencias": "Desea **'dar nuevos pasos'** [3] para alejarse de la inseguridad, pero su patrón conductual la lleva a recurrir constantemente a la **intervención de los demás** a su favor [1], fortaleciendo así el problema.",
+        "creenciaCentral": "Soy una persona vulnerable e insegura, y necesito la **tranquilidad** y el apoyo de otros para superar los conflictos de la vida [1].",
+        "estiloDeComunicacion": "Angustiado; lenguaje centrado en la **necesidad** y en la **incapacidad** para enfrentarse a las situaciones, que busca la validación o intervención externa [1].",
+        "mecanismoDeDefensa": "**Evitación** del conflicto y **Búsqueda de tranquilidad** (mecanismos que mantienen la queja) [1, 3].",
+        "motivacionParaLaTerapia": "La ansiedad generada por la **inseguridad** está ejerciendo **efectos empobrecedores** sobre su vida, impidiéndole progresar y desarrollar nuevos **significados** [2].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia",
+                "linea": "Si hay conflicto, corro hacia el adulto más próximo. La inseguridad me impide enfrentarme directamente a cualquier conflicto que pudiera tener. ¿Cómo puedo resistirme a la influencia del problema?"
+            },
+            {
+                "emocion": "Esperanza",
+                "linea": "¿Qué indicará este **'nuevo retrato'** de mí misma acerca de mi disposición a dar **nuevos pasos** que alejen mi vida de la inseguridad? [3]"
+            }
+        ]
+    },
+    {
+        "id": "d0e1f2a3-b4c5-6d7e-8f9g-0h1i2j3k4l5m",
+        "nombreCompleto": "Carlos R. Gámez",
+        "edad": "40 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Depresión",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "Carlos se autodefine como **'deprimido'**, convencido de que su problema es **insidioso, grave y difícil de resolver** [8]. Su estado se mantiene por un patrón de **reducción de la estimulación** del ambiente y la **rumia mental**, que refuerza su desesperanza. Los intentos de su familia por **animarle** han fracasado, lo que solo empeora su sensación de incomprensión [9].",
+        "sintomasClave": [
+            "Reducción de la **estimulación** del ambiente (quedarse bajo las mantas o leyendo siempre el mismo tipo de libros) [10]",
+            "Rumia mental enfocada en el pasado y en todo lo que **'debería o no debería haber hecho'** [10]",
+            "**Aislamiento** y conversación recurrente sobre el mismo tema (su desdicha) con las mismas personas [10]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Esposa y familia",
+                "descripcion": "Intentan con **'más ahínco'** hacer que piense en positivo, lo que le hace sentir **incomprendido** y aumenta su desolación [9]. Su método de solución intentada es **'más de lo mismo'**.",
+                "sentimientoPrincipal": "Incomprensión/Frustración (familiar)"
+            },
+            {
+                "rol": "La Depresión (Externalizada)",
+                "descripcion": "El problema se define como algo **'que se hace'** [10], adoptando **malos hábitos** que lo mantienen como un **'prisionero de su propia vida'** [2].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Salir del **bache** o del estado actual, aunque lo percibe como una tarea ardua [8].",
+            "metaOculta": "Sentir que los demás **aprecian su 'desolación'** en lugar de forzarle al optimismo [11].",
+            "miedoPrincipal": "El miedo a que su estado sea **fijo e inmutable** [12], creyendo que **'en el futuro siempre se sentiría así'** [10]."
+        },
+        "incongruencias": "Afirma querer ayuda, pero sus acciones (evitar salir, cerrar cortinas, limitar la estimulación) están diseñadas activamente para **mantener una 'depresión realmente buena'** [10], saboteando cualquier posibilidad de cambio.",
+        "creenciaCentral": "Mi problema es **insidioso, grave y difícil de resolver** [8]. Siempre salgo mal en la **comparación con los demás** [10].",
+        "estiloDeComunicacion": "Modo **indicativo** [13] que consolida su realidad negativa ('nunca', 'siempre') [8, 13]. Uso de **etiquetas patológicas fijas** ('deprimido') [8, 12].",
+        "mecanismoDeDefensa": "Retraimiento y **Rumia mental** (dar vueltas al pasado y a todo lo que 'debería o no debería haber hecho') [10].",
+        "motivacionParaLaTerapia": "La **ineficacia de los intentos de solución** de su familia (que se intensifican al fracasar) lo han llevado a un punto muerto que requiere la intervención de un tercero [9].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Desesperanza",
+                "linea": "Si quisiera tener una **depresión realmente buena**... daría vueltas al pasado y a todas las cosas que debería o no debería haber hecho. Pensaría que **siempre me había sentido así** [10]."
+            },
+            {
+                "emocion": "Frustración",
+                "linea": "Si me comprendieran realmente, ¿cómo podrían decirme **'ánimo'**? Lo que él realmente necesita ahora es sentir que de verdad están con él [11]."
+            }
+        ]
+    },
+    {
+        "id": "e4f5a6b7-c8d9-0e1f-2g3h-4i5j6k7l8m9n",
+        "nombreCompleto": "Julia T. Álamo",
+        "edad": "30 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Estrés",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Julia experimenta una **crisis aguda** [14] y un gran malestar que interpreta como un **colapso** o una regresión [14]. Su situación, que podría ser un **rito de pasaje** [15, 16], la tiene en un estado de **confusión y desorganización** [16] debido a las **actitudes negativas** hacia sí misma y las **expectativas** que siente como **empobrecedoras** [16].",
+        "sintomasClave": [
+            "Experimenta la crisis como un **colapso** y una **regresión** [14]",
+            "Se encuentra en un estado **liminal o fronterizo** caracterizado por **malestar, confusión y desorganización** [16]",
+            "Bloqueada en la búsqueda de **nuevas posibilidades y significados alternativos** [17]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Actitudes y Expectativas (Externalizadas)",
+                "descripcion": "El problema se mantiene por **actitudes negativas** que tiene hacia sí misma o que otros tienen hacia ella, o por **expectativas y mandatos** que experimenta como **empobrecedoras** [16].",
+                "sentimientoPrincipal": "Frustración/Auto-juicio"
+            },
+            {
+                "rol": "Sí misma (en el presente)",
+                "descripcion": "Siente la necesidad de **separarse** de un **status, aspecto de la identidad o rol** que ya no considera viable para ella, encontrándose en una fase de **separación** [15].",
+                "sentimientoPrincipal": "Desorganización"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Superar la crisis y el malestar y volver a un **nivel de funcionamiento 'aceptable'** [14].",
+            "metaOculta": "Aprovechar la crisis para **determinar aquello de lo que debe separarse** [16] e identificar claves sobre los **nuevos roles** a los que podría acceder [16].",
+            "miedoPrincipal": "Que su crisis sea interpretada en términos de **regresión** en lugar de **progreso** [18], o que su **experiencia vivida** quede **fuera del relato dominante** [19]."
+        },
+        "incongruencias": "Aunque su situación es dolorosa y desorganizadora, la crisis, vista como un **rito de pasaje**, es potencialmente una experiencia con **mayores expectativas para el futuro** [16], lo que contradice su creencia de que es un **colapso total** [14].",
+        "creenciaCentral": "Mi **crisis es un colapso total** y necesito ser **reconstruida** por expertos para volver a un nivel de funcionamiento 'aceptable' [14].",
+        "estiloDeComunicacion": "Centrado en el **malestar** y la **confusión**, con dificultad para **organizar su experiencia** en una secuencia temporal coherente [16, 20].",
+        "mecanismoDeDefensa": "**Interpretación de la crisis como regresión** [14], lo cual refuerza la necesidad de control externo.",
+        "motivacionParaLaTerapia": "La **confusión y desorganización** la hacen sentir que su experiencia no está suficientemente representada [19], y busca una forma de **ordenar la cotidianidad** e **interpretar las experiencias posteriores** [20].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Confusión",
+                "linea": "Me siento completamente desorganizada. Es un **colapso**, una regresión total. ¿Cómo puedo yo evitar representar de modo habitual la misma, **vieja y problemática historia**? [7, 16]"
+            },
+            {
+                "emocion": "Búsqueda de significado",
+                "linea": "Tal vez esta crisis me esté diciendo de qué tengo que **separarme** y qué **actitudes negativas** hacia mí misma ya no son viables. Pero me asusta la **desorganización** que implica [15, 16]."
+            }
+        ]
+    }
+]
+
