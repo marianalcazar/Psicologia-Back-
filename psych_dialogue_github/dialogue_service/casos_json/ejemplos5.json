@@ -1,0 +1,140 @@
+[
+    {
+        "id": "f7d4c2a1-8e6b-4f0d-9a5c-2e1b8c3d7a9f",
+        "nombreCompleto": "Ray V. Castro",
+        "edad": "25 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Duelo",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Ray acude a terapia un año después de la pérdida accidental de sus hermanos, sintiéndose **'perdido y sin rumbo'** [1]. Su vida está organizada en torno a un **'relato dominante de desilusión y tristeza'** [2], que le impide ver su **agencia personal** [3]. Siente que la tristeza es la forma de mantener viva su memoria [4], y está bloqueado en su búsqueda de **nuevas posibilidades** [5].",
+        "sintomasClave": [
+            "Bloqueo en la búsqueda de nuevos significados y la **re-narración de la experiencia** [5, 6]",
+            "Incapacidad para **organizar los eventos de su vida** en una secuencia coherente hacia el futuro [5, 7]",
+            "Sentimiento de que su **experiencia vivida** no está suficientemente representada en el relato dominante [8]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Hermanos (fallecidos)",
+                "descripcion": "El recuerdo de sus hermanos y el dolor de su pérdida se han convertido en una **'tendencia'** que ejerce **más influencia** sobre su vida [9]. Cree que debe **'sacrificar'** su propia vida para honrarlos [10].",
+                "sentimientoPrincipal": "Fijación/Dolor"
+            },
+            {
+                "rol": "El Duelo/Tristeza (Externalizado)",
+                "descripcion": "Experimenta el Duelo como una **'entidad separada y externa'** [11] que le exige un **sacrificio** [10] y le impide **'disfrutar'** de la vida, lo cual es contrario a los deseos de sus hermanos [12].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Superar la tristeza y el dolor para poder **'mantener viva su memoria'** de forma productiva [4].",
+            "metaOculta": "Generar **relatos alternativos** [6] y **re-escribir su historia personal** [13] que le permitan **'re-animar su vida'** [14].",
+            "miedoPrincipal": "Que su dolor desaparezca, lo que significaría que la memoria de sus hermanos **'no significaba nada'** para él [4]."
+        },
+        "incongruencias": "Afirma querer **mantener viva la memoria** de sus hermanos **'haciéndose mayor como a ellos les hubiese gustado'** [4], pero se mantiene en una **narración saturada de problemas** [2] que le niega las **posibilidades extraordinarias** [15] que le permitirían vivir.",
+        "creenciaCentral": "La tristeza es la prueba de mi lealtad. No estoy **'listo'** para avanzar, pues si lo hago, **'traiciono'** el recuerdo.",
+        "estiloDeComunicacion": "Serio, con un lenguaje que utiliza el **modo indicativo** que consolida su realidad negativa ('sigo', 'no puedo') [16].",
+        "mecanismoDeDefensa": "**Fijación** en la **descripción saturada por el problema** [17] y **evitación** de la **reorganización** de su experiencia [18].",
+        "motivacionParaLaTerapia": "La inminente ceremonia de la lápida [12] le ha generado una **crisis aguda** [19] y necesita un contexto donde pueda **revisar su historia** y distinguir entre el pasado, presente y futuro [1].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Dolor/Fijación",
+                "linea": "A veces me lleno de dolor y de tristeza por lo mucho que los echo de menos a los dos. Me da terror si dejo de sentir este dolor, ¿qué pasará con su recuerdo? [4]."
+            },
+            {
+                "emocion": "Resistencia",
+                "linea": "Me he sentido más fuerte por dentro (...) no he estado alterado tanto tiempo (...) ni mucho menos (...) **sólo una vez**. Pero sigo bloqueado en mi búsqueda de nuevas posibilidades."
+            }
+        ]
+    },
+    {
+        "id": "b3e0a1c9-7f8d-4a6b-9c1e-0d2f4g5h6i7j",
+        "nombreCompleto": "Marlene J. Bauer",
+        "edad": "20 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Autoestima baja",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Marlene acude con una historia de autoagresión y **odio hacia sí misma** [20]. Su autoestima está determinada por **'verdades' normalizadoras** y **'especificaciones'** impuestas culturalmente y familiarmente. Se ha convertido en un **'cuerpo dócil'** [21] que participa activamente en su propio **autosometimiento** [22, 23], convencida de ser **'basura'** [24, 25].",
+        "sintomasClave": [
+            "Autoagresividad y **autorrechazo** [20, 25]",
+            "Sentimiento de que su cuerpo es una **'cosa'** que no puede controlar, sujeto a **constante evaluación** [26, 27]",
+            "Experimenta los efectos **positivos y constitutivos del poder** que le incita a moldear su vida en torno a **'verdades' normalizadoras** [28, 29]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padre/Abuela",
+                "descripcion": "El problema se nutre de la actitud controladora y descalificadora del padre/abuela, quienes la entrenaron para que **'no mereciera sentarse en una silla porque inevitablemente la ensuciaba'** [24].",
+                "sentimientoPrincipal": "Subyugación"
+            },
+            {
+                "rol": "Odio hacia sí misma (Externalizado)",
+                "descripcion": "El Odio se ha convertido en una **'dictadura'** [26] que le exige actuar en su contra, obligándola a ser **dócil** [26].",
+                "sentimientoPrincipal": "Hostilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Disminuir la **autoagresividad** y el **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [30].",
+            "metaOculta": "Negarse a la **'cosificación'** de su persona y cuerpo [31, 32] y liberarse del **'tipo de individualidad que se nos ha impuesto'** [33].",
+            "miedoPrincipal": "Ser **agobiada por la culpa** [27] al separarse de la actitud de su padre, o que su cuerpo sea siempre una **'cosa'** que no puede controlar [34]."
+        },
+        "incongruencias": "Estaba convencida de ser **'basura'** y no merecer atención [24], pero simultáneamente se sintió con **derecho a pedir más entrevistas** [24], un acto que contradecía su relato dominante.",
+        "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar y rechazar; no merezco la felicidad ni la validación, porque soy **'basura'**.",
+        "estiloDeComunicacion": "Inicialmente **retraído y susurrante** [35], utiliza el lenguaje del **juicio normalizador** y la **constante evaluación** [26].",
+        "mecanismoDeDefensa": "**Autosometimiento** (para evitar el juicio) y **Autoagresividad** (como forma de castigo) [20].",
+        "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces o exigencias [25] y el temor a que la **'sentencia a cadena perpetua'** [36] del odio persistiera.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Rechazo/Subyugación",
+                "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. Me da miedo el castigo si intento negarme a la **cosificación** de mi persona [26]."
+            },
+            {
+                "emocion": "Culpabilidad",
+                "linea": "No creía merecer las atenciones que me prodigaban, ya que estaba convencida de ser una **'basura'** [24]. ¿Cómo he dado ese paso hacia la separación **sin sentirme agobiada por la culpa**? [27]."
+            }
+        ]
+    },
+    {
+        "id": "a9c7b8d5-3f1e-42g4-h6i8-j0k2l4m6n8p0",
+        "nombreCompleto": "Clive y Lori Hansen",
+        "edad": "50 y 48 años",
+        "genero": "Masculino/Femenino",
+        "perfilPrincipal": "Problemas de relación",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "La pareja acude por **conflictos crónicos** y **disputas inútiles y viciosas** [37]. Se sienten **'víctimas del conflicto'** y atrapados en **'comportamientos ya viejos y repetitivos'** [38]. El problema se mantiene porque sus **intentos de solución** ineficaces (ej. 'más de lo mismo') empeoran la situación [39, 40].",
+        "sintomasClave": [
+            "Patrón de **'más de lo mismo'**; escalada de pensamientos y acciones [41, 42]",
+            "Ambos se culpan, sin ver su propia influencia en el **sistema de apoyo a la vida del problema** [7, 39]",
+            "Han perdido de vista los **recursos y capacidades** debido a la **descripción saturada por el problema** [17, 43]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "El Conflicto (Externalizado)",
+                "descripcion": "El Conflicto es visto como algo que **'ha triunfado sobre sus vidas'** [38] y les **'atrapa con mucha facilidad en sus redes'** [44], dividiéndolos [45].",
+                "sentimientoPrincipal": "Frustración/Desesperanza"
+            },
+            {
+                "rol": "El Cónyuge",
+                "descripcion": "Cada uno interpreta las acciones del otro de forma negativa [46], lo que lleva al aumento de la **vigilancia** [39] y a la **escalada de la queja** (espiral viciosa) [42].",
+                "sentimientoPrincipal": "Acusación/Retraimiento"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Poner fin a las peleas y reducir el **dominio del conflicto** sobre sus relaciones [44].",
+            "metaOculta": "Que el otro realice un **pequeño gesto que agrade** [42] y **demuestre que todavía tienen capacidad** de resolver problemas, volviendo a la **'fase inicial libre de problemas'** [47].",
+            "miedoPrincipal": "Que su problema sea **'insidioso, grave y difícil, si no imposible, de resolver'** [48], forzándoles a **'comportamientos viejos y repetitivos'** [38]."
+        },
+        "incongruencias": "Afirman que el conflicto controla sus vidas, pero **han conseguido un 25% de resistencia** al problema [49]. El **intento de solución de uno** (ej. acusar) es el **problema** para el otro (ej. retraerse) [39].",
+        "creenciaCentral": "Nuestras peleas son una **manifestación de un problema más profundo** [50]; el cambio no puede ocurrir rápidamente porque la **patología está profundamente arraigada** [51].",
+        "estiloDeComunicacion": "**Acusatorio**, centrado en el **detalle de la queja** y el **modo indicativo** que cierra posibilidades ('siempre', 'nunca') [52, 53].",
+        "mecanismoDeDefensa": "Repetición de **'Más de lo Mismo'** [41] y **Racionalización** (creer que sus esfuerzos ineficaces son necesarios) [40].",
+        "motivacionParaLaTerapia": "Están exhaustos de la **repetición constante** [38] y la tensión es tan alta que buscan un **tercero** que pueda introducir un **pequeño cambio** o **'fichas de dominó'** [54, 55] en su patrón.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Acusación",
+                "linea": "Si tú no hubieras dicho esa cosa hiriente, yo no habría reaccionado. La pelea es culpa tuya. Es difícil creer que alguna vez nos llevaremos bien. [53, 56]"
+            },
+            {
+                "emocion": "Retraimiento",
+                "linea": "Tanto la pareja como el terapeuta habían intentado solucionar esta situación de muchas formas, pero sin resultado. Nos sentimos **víctimas** de este conflicto, y no somos capaces de **ser flexibles** [38, 57]."
+            }
+        ]
+    }
+]
