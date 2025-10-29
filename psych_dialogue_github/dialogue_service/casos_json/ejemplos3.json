@@ -1,0 +1,140 @@
+[
+  {
+    "id": "2d9a3b4c-901e-45f8-88a2-a7f4c0b3d6e7",
+    "nombreCompleto": "Jaime M. Torres",
+    "edad": "45 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Duelo",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Jaime acude a terapia incapaz de reincorporarse a su vida un año después de la pérdida de su cónyuge. Su experiencia se ha organizado alrededor de una **'narración dominante'** [1] de pérdida y tristeza, que constriñe y trivializa su vida [1]. Cualquier aspecto vital o **'acontecimiento extraordinario'** [2] que contradiga esta narración ha quedado **'sin relatar'** y sin significado [3].",
+    "sintomasClave": [
+      "Anclaje en el pasado, incapacidad de encontrar sentido de continuidad en el presente [4]",
+      "Sentimiento de que gran parte de su experiencia vivida queda amorfa y **sin organización** [3]",
+      "Aislamiento de amigos y familiares porque su relato dominante les hace **'representar'** un conocimiento sobre él que no le permite participar activamente [5]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Cónyuge (fallecido)",
+        "descripcion": "La memoria del cónyuge y el relato asociado a la pérdida dominan el significado que Jaime atribuye a los sucesos de su vida [1]. La relación constituye un relato dominante que **constriñe** su existencia [1, 6].",
+        "sentimientoPrincipal": "Pérdida/Tristeza"
+      },
+      {
+        "rol": "Tristeza/Problema (Externalizado)",
+        "descripcion": "La tristeza ha adquirido el contexto de una **'tendencia'** que parece tener vida propia y que, con el tiempo, llega a ejercer **más influencia** sobre él [7].",
+        "sentimientoPrincipal": "Subyugación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Superar la pérdida para poder seguir adelante con su vida.",
+      "metaOculta": "Generar **relatos alternativos** [8] que le proporcionen un **sentido de agencia personal** [9] y le permitan **re-escribir** su vida [10].",
+      "miedoPrincipal": "Que su tristeza se convierta en una **'tendencia'** [7] que ejerza más influencia, o que **'llorar hacia fuera'** signifique que el cónyuge **'no significaba nada'** [11]."
+    },
+    "incongruencias": "Afirma querer mantener viva la memoria de su cónyuge **'haciéndose mayor como a ellos les hubiese gustado'** [12], pero al anclarse en la tristeza profunda está **'ahogando su fuerza'** [11] y estancando su propia vida, lo cual contradice su objetivo declarado.",
+    "creenciaCentral": "El dolor y el luto son la prueba de mi amor y su recuerdo. Si no siento esta **desilusión y tristeza** [1], significa que no le honro.",
+    "estiloDeComunicacion": "Retraído, centrado en el pasado y la pérdida [13]. Utiliza analogías de **oscuridad** o **apagado** para describir su estado, reforzando la **descripción saturada por el problema** [14].",
+    "mecanismoDeDefensa": "Fijación y **evitación** de la **re-escritura** de su vida [10, 15].",
+    "motivacionParaLaTerapia": "El **relato saturado de problemas** [14] ha invadido su funcionamiento diario, llevándolo a buscar ayuda para separarse del problema [14] y encontrar **'hechos'** que contradigan este relato [14].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Fijación/Tristeza",
+        "linea": "Sigo esperando escuchar su llave en la puerta, y cada vez que recuerdo que no va a pasar... es como si se me apagara algo por dentro. Me da terror si dejo de sentir este dolor, ¿qué pasará con su recuerdo?"
+      },
+      {
+        "emocion": "Miedo",
+        "linea": "La ley del duelo es **'Llorar hacia fuera'** [11], pero si lo hago, ¿no indicaría que mis hermanos no significaban nada para mí? Yo sé que no es así."
+      }
+    ]
+  },
+  {
+    "id": "e8a1f2b9-6c3d-4a0e-9b7f-0d2c5a8b4e7a",
+    "nombreCompleto": "Elisa P. Vidal",
+    "edad": "28 años",
+    "genero": "Femenino",
+    "perfilPrincipal": "Afán de perfección",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Elisa vive un **'estilo de vida de los deberes'** [16] bajo la **'maldición de la idea de la perfección'** [17]. Se siente obligada a cumplir con **'especificaciones'** [18] que determinan su valía. Actúa como su **propia guardiana** [19], participando activamente en su **subyugación** [19, 20] a las **'verdades normalizadoras'** [18].",
+    "sintomasClave": [
+      "Autosometimiento a **'verdades normalizadoras'** sobre su valía [18]",
+      "Necesidad de una **constante evaluación de su cuerpo y de su persona** [21]",
+      "Alta ansiedad y culpa ante la posibilidad de no alcanzar las **'especificaciones'** impuestas [18, 22]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Las Normas Sociales/Poder",
+        "descripcion": "Se siente sujeta a **'controles'** sociales invisibles basados en prácticas lingüísticas presuposicionales que especifican cómo debe ser [5]. Esto resulta en una **'subyugación'** activa y pasiva [19, 20].",
+        "sentimientoPrincipal": "Presión/Subyugación"
+      },
+      {
+        "rol": "Sí misma (Cuerpo Dócil)",
+        "descripcion": "Se relaciona consigo misma como un **'objeto'** [19] y sufre las consecuencias del **'autosometimiento'** y la **disciplina correctiva** [19], con el fin de evitar ser considerada sin cualidades [23].",
+        "sentimientoPrincipal": "Auto-rechazo/Culpabilidad [22]"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Afinar sus esfuerzos para satisfacer las **expectativas y normas** de la perfección [18].",
+      "metaOculta": "Negarse a la **'cosificación'** de su persona [18] y convertirse en un **'espíritu animado'** [23] que asume sus propios **conocimientos alternativos** [24].",
+      "miedoPrincipal": "Que la vida dominada por la culpa se convierta en una **'sentencia a cadena perpetua'** [25, 26]."
+    },
+    "incongruencias": "Busca el **autorrespeto** y la liberación, pero ejerce un **poder sobre sí misma** [19] al autosometerse a las **'verdades normalizadoras'** [18]. **Ser una esclava del deber sigue siendo ser una esclava** [27].",
+    "creenciaCentral": "Mi valía personal depende de cumplir las **especificaciones** de perfección [18]; cualquier error demuestra que soy un fracaso irreparable y merezco la **culpa** [25, 26].",
+    "estiloDeComunicacion": "Autocrítico, **intelectualizado** [28], utiliza el lenguaje de la **culpa** [29] y el **juicio normalizador** [23].",
+    "mecanismoDeDefensa": "**Autosometimiento** y **Racionalización** de las **'técnicas de poder'** [19, 30].",
+    "motivacionParaLaTerapia": "El **'estilo de vida de los deberes'** [16] y la **culpa** [29] le están generando la sensación de **'sentencia a cadena perpetua'** [26], llevándola a **desafiar esas especificaciones** [23, 31].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Culpabilidad/Crítica",
+        "linea": "Si no lo hago perfecto, es un fracaso, y el fracaso es una sentencia a cadena perpetua [25]. No puedo permitir ese error, porque eso demuestra que las verdades que temo sobre mí eran ciertas."
+      },
+      {
+        "emocion": "Subyugación",
+        "linea": "La bulimia [o el problema] me ha exigido una **constante evaluación de mi cuerpo y de mi persona**. Me ha obligado a ser dócil. Tengo que negarme a la **cosificación** de mi persona [18, 21]."
+      }
+    ]
+  },
+  {
+    "id": "5f3c7a2b-1d9e-4b6f-8c0a-0e5d4a7c1b8f",
+    "nombreCompleto": "Javier R. Soto",
+    "edad": "35 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Obsesiones",
+    "fuentePrimaria": "En busca de soluciones",
+    "historiaResumida": "Javier se queja de **pensamientos intrusivos y rituales**. Está atascado en el patrón de **'más de lo mismo'** [32], repitiendo soluciones ineficaces, lo que **mantiene o empeora** el problema [33, 34]. Su queja se ha **reificado** [35, 36] y se describe a sí mismo con **etiquetas fijas y negativas** [37].",
+    "sintomasClave": [
+      "Patrones de **‘más de lo mismo’** que mantienen la queja [32]",
+      "Conducta rígida y ritualista (necesaria para el **sistema de apoyo a la vida del problema** [2])",
+      "Uso de **rótulos fijos** y **etiquetas negativas** ('obsesivo') [37, 38]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "El Patrón (Obsesión/Ritual)",
+        "descripcion": "El Patrón depende de sus efectos para sobrevivir [15]. Cualquier intento de romper la secuencia se convierte en una **'solución intentada'** [33] que lo mantiene o lo empeora.",
+        "sentimientoPrincipal": "Culpabilidad/Frustración"
+      },
+      {
+        "rol": "Pareja/Familia",
+        "descripcion": "Los miembros de la familia repiten **patrones inútiles** de pensamiento y acción, y sus intentos bienintencionados de ayudar **empeoran** la situación [33, 34].",
+        "sentimientoPrincipal": "Frustración/Exasperación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Dejar de repetir los rituales y detener los pensamientos intrusivos.",
+      "metaOculta": "Alterar la **'forma de actuar'** en la situación [39], introduciendo una **modificación pequeña** [40] en el patrón de la queja o en su contexto [41].",
+      "miedoPrincipal": "La convicción de que su problema es **'insidioso, grave y difícil, si no imposible, de resolver'** [38, 42]."
+    },
+    "incongruencias": "El cliente busca **control** a través de rituales, pero su **intento de solución es el problema** [33] y lo mantiene atascado en el patrón de **'más de lo mismo'** [32, 34].",
+    "creenciaCentral": "Mi problema es **insidioso, grave y difícil de resolver** [38]. Solo el **control estricto y la repetición** de la secuencia evitarán una catástrofe.",
+    "estiloDeComunicacion": "Rígido, centrado en el **detalle de la queja** [43]. Utiliza el modo **indicativo** que **cierra posibilidades** [28, 44].",
+    "mecanismoDeDefensa": "Repetición de **'Más de lo Mismo'** [32, 34] y **Reificación de la patología** [35, 36].",
+    "motivacionParaLaTerapia": "El problema se ha vuelto **insidioso** y consume tanto tiempo que se siente **atascado en la ciénaga de la patología** [45] y necesita un cambio, centrándose en el **patrón de acción** [41].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Ansiedad/Rigor",
+        "linea": "No es solo lavarme, es el orden. Si no sigo la secuencia exacta —codo, nudillos, pulgar, tres veces— el pensamiento se queda pegado."
+      },
+      {
+        "emocion": "Fijeza/Desesperanza",
+        "linea": "¿Cómo podría dejar de hacerlo si el riesgo es que el pensamiento se quede ahí para siempre? Esto es **insidioso, grave** y no creo que pueda ser resuelto [38]."
+      }
+    ]
+  }
+]
