@@ -1,0 +1,140 @@
+[
+    {
+        "id": "a5e9f4d2-1b3c-4a8e-9c0d-6f7a8b9c0d1e",
+        "nombreCompleto": "Laura J. Ríos",
+        "edad": "24 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ansiedad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Laura experimenta alta ansiedad asociada a la **inseguridad** [1]. Esta inseguridad le impide enfrentar conflictos y la mantiene dependiente de la tranquilidad y la validación externa. La ansiedad es vista como una **'tendencia'** [2] que influye en su vida, dificultándole la **auto-tranquilización** [3] y el desarrollo de **relatos alternativos** [4].",
+        "sintomasClave": [
+            "Angustia visible y necesidad de que la tranquilicen en caso de conflicto [1]",
+            "Evitación activa de la **confrontación** con otras personas [1]",
+            "Incapacidad para **auto-tranquilizarse** [3] o valerse por sí misma en momentos de tensión"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres/Pareja",
+                "descripcion": "Les **obliga a intervenir** en disputas o a actuar a su favor, ya que su **inseguridad** les obliga a **cooperar con la orden** del problema [1, 5].",
+                "sentimientoPrincipal": "Dependencia"
+            },
+            {
+                "rol": "Inseguridad (Externalizada)",
+                "descripcion": "La Inseguridad es una entidad que **impide que se enfrente directamente a cualquier conflicto** que pudiera tener y la hace correr hacia el adulto más próximo [1].",
+                "sentimientoPrincipal": "Miedo/Agobio"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Reducir la angustia y **dejar de depender** de sus padres para que le den seguridad [1].",
+            "metaOculta": "Construir un **'nuevo retrato'** de sí misma como una persona capaz de **auto-tranquilizarse** y de **resistir al problema** [3, 6].",
+            "miedoPrincipal": "Que la ansiedad se convierta en una **'tendencia'** o **'narración dominante'** que trivialice y constriña su vida permanentemente [2, 7]."
+        },
+        "incongruencias": "Desea **'dar nuevos pasos'** que alejen su vida de la inseguridad [3], pero su patrón conductual la lleva a recurrir a la **intervención de los demás** a su favor, fortaleciendo el problema [1, 5].",
+        "creenciaCentral": "Soy una persona vulnerable e insegura, y necesito la **tranquilidad** y el apoyo de otros para superar los conflictos de la vida [1].",
+        "estiloDeComunicacion": "Visiblemente **angustiada** [1]; lenguaje centrado en la **necesidad** y en la **incapacidad** para enfrentarse a las situaciones.",
+        "mecanismoDeDefensa": "**Evitación** del conflicto y **Búsqueda de tranquilidad** (mecanismos que mantienen la queja) [1].",
+        "motivacionParaLaTerapia": "La ansiedad generada por la **inseguridad** está ejerciendo **efectos empobrecedores** sobre su vida, impidiéndole progresar y desarrollar nuevos **significados** [8].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia",
+                "linea": "Si hay conflicto, corro hacia el adulto más próximo. La inseguridad me impide enfrentarme directamente a cualquier conflicto que pudiera tener con otros niños. ¿Cómo puedo resistirme a la influencia del problema en esta ocasión?"
+            },
+            {
+                "emocion": "Esperanza",
+                "linea": "Yo prefiero este **'nuevo retrato'** de mí misma. ¿Qué nos indica esto acerca de mi disposición a dar **nuevos pasos** que alejen mi vida de la inseguridad?"
+            }
+        ]
+    },
+    {
+        "id": "b3e0a1c9-7f8d-4a6b-9c1e-0d2f4g5h6i7k",
+        "nombreCompleto": "Teresa N. Rojas",
+        "edad": "35 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Estrés Postraumático",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Teresa fue **violada y brutalmente golpeada** por su pareja, lo que la dejó con la experiencia de **estrés postraumático** [9, 10]. Su recuperación se ve obstaculizada por la **confusión** y la **presión contradictoria** de amigos y familiares, quienes le **imponen opiniones** y le **niegan la autoridad** sobre su propia vida [9, 11, 12].",
+        "sintomasClave": [
+            "**Revivir lo ocurrido** en pesadillas o recuerdos [10]",
+            "Sentirse agobiada por la **confusión** y la **presión** de su entorno social [9]",
+            "Un **temor que lo domina todo** y le dificulta apartar ciertos pensamientos [10]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "El Trauma/Terror (Externalizado)",
+                "descripcion": "El Terror/Trauma ejerce su **influencia** en su mente y cuerpo. Siente que el **dolor no acaba** ni siquiera cuando las contusiones han curado, ya que su mente sufre día tras día [10].",
+                "sentimientoPrincipal": "Terror"
+            },
+            {
+                "rol": "Amigos/Familiares",
+                "descripcion": "Están **presionándola con consejos contradictorios** sin que ella los pida. Esta injerencia la hace sentir **demasiado débil y vulnerable** para oponerse y le **impide recuperarse** [9, 11].",
+                "sentimientoPrincipal": "Confusión/Presión"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Sentirse más **segura** y lograr que el dolor **no se extienda** después de que las heridas hayan cicatrizado [10].",
+            "metaOculta": "Recobrar el **control de su vida** y obtener **tiempo y espacio** para recuperarse del terror [12].",
+            "miedoPrincipal": "Que su sufrimiento **continúe** indefinidamente, o que se vea **forzada por otros en contra de su voluntad** [10, 11]."
+        },
+        "incongruencias": "Fue capaz de **enfrentarse a la violencia** de su marido y denunciarlo [9], pero se siente **demasiado débil y vulnerable** para oponerse a que sus amigos le impongan sus opiniones [11].",
+        "creenciaCentral": "Ya he tenido **demasiadas experiencias en lo que se refiere a verse forzada por otros en contra de su voluntad** [11]. El dolor postraumático es inevitable.",
+        "estiloDeComunicacion": "Angustiado, centrado en la **confusión** y el **terror**. Su voz refleja la **vulnerabilidad** generada por el trauma [9, 11].",
+        "mecanismoDeDefensa": "**Retraimiento** (para evitar la confusión de los otros) y **Revivir** (pesadillas o recuerdos que se imponen) [10].",
+        "motivacionParaLaTerapia": "No podía soportar la **confusión** y la **presión** de amigos y familiares. Necesitaba que le **devolvieran la autoridad** sobre su propia vida [9, 12].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Terror/Agobio",
+                "linea": "Me presionaban con consejos contradictorios, sin que yo los pidiera. Fui capaz de enfrentarme a todo lo que me había pasado, pero **no soporto esta confusión**."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Precisamente ahora estoy demasiado débil y vulnerable como para oponerme a que me impongan opiniones que yo no deseo asumir. **Dame tiempo y espacio** para recuperarme del terror."
+            }
+        ]
+    },
+    {
+        "id": "7f6e5d4c-3b2a-1c0d-9a8b-7f6e5d4c3b2d",
+        "nombreCompleto": "Diana P. Flores",
+        "edad": "27 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Trauma",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Diana tiene una historia de **abuso sexual y maltrato físico y emocional** [13] desde la infancia. Esto generó un profundo **odio hacia sí misma** y una **autoagresión** [14, 15]. Su vida está definida por un **entrenamiento** en la negación y la culpa, y se ve a sí misma como **'basura'** [13, 16], convirtiendo su cuerpo en una **'cosa'** que debe ser controlada y rechazada [17].",
+        "sintomasClave": [
+            "Autoagresividad, **autorrechazo** y **odio hacia sí misma** [18]",
+            "Sentimiento de que su cuerpo es una **'cosa'** sometida a **constante evaluación** [17, 18]",
+            "Incapacidad para recibir **atenciones** o creer que las merece, debido a la culpa [16]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Odio hacia sí misma (Externalizado)",
+                "descripcion": "El Odio se ha convertido en una **'dictadura'** que le exige actuar en su contra, obligándola a ser **dócil** y negándole los **argumentos de autorrespeto** [17, 18].",
+                "sentimientoPrincipal": "Hostilidad/Subyugación"
+            },
+            {
+                "rol": "Padre/Abusadores",
+                "descripcion": "El problema se mantiene por el **entrenamiento** en la negación y la culpa que su padre le impuso para **'sacarle a golpes la maldad que llevaba dentro'** [13].",
+                "sentimientoPrincipal": "Terror/Rabia reprimida"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Disminuir la **autoagresividad** y **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [18, 19].",
+            "metaOculta": "Separarse del **entrenamiento** recibido y desarrollar una **nueva y más fructífera relación consigo misma** [20].",
+            "miedoPrincipal": "Que su cuerpo sea siempre una **'cosa'** que debe rechazar y que la **culpa** y el odio persistan como una **'sentencia a cadena perpetua'** [16, 21]."
+        },
+        "incongruencias": "A pesar de su fragilidad extrema [22] y de estar convencida de ser **'basura'** [16], ha demostrado una gran **fuerza de resistencia** y capacidad para **pedir entrevistas** y seguir luchando contra el odio hacia sí misma [18].",
+        "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar y rechazar; no merezco la felicidad ni la validación, porque soy **'basura'** [16].",
+        "estiloDeComunicacion": "Inicialmente **frágil y susurrante** [22], utiliza el lenguaje de la **culpa** y el **juicio normalizador** [18].",
+        "mecanismoDeDefensa": "**Autoagresividad** y **Autotortura** (como una forma de castigo por la culpa) [18].",
+        "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces y darse cuenta de que el **odio no la iba a ayudar** [18].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Auto-rechazo",
+                "linea": "No creía merecérmelas. Puesto que estaba convencida de ser una **'basura'**, no me consideraba merecedora de todas las atenciones que me estábamos prodigando."
+            },
+            {
+                "emocion": "Subyugación",
+                "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. ¿Cómo he dado ese paso hacia la separación sin sentirme **agobiada por la culpa**?"
+            }
+        ]
+    }
+]
