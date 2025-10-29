@@ -1,0 +1,48 @@
+[
+  {
+    "id": "un-uuid-aleatorio-1",
+    "nombreCompleto": "Raúl Montero",
+    "edad": "40 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Depresión",
+    "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+    "historiaResumida": "El paciente se autodefine como 'deprimido', asumiendo que su problema es insidioso, grave y difícil de resolver [1]. Su estado se mantiene por un patrón de inacción y una reducción de la estimulación del ambiente, lo que refuerza su desesperanza. Su familia ha intentado animarle, lo que constituye un intento de solución fallido que solo empeora su sensación de aislamiento [2, 3].",
+    "sintomasClave": [
+      "Reducción de la estimulación del ambiente (cerrar cortinas, quedarse bajo las mantas) [4]",
+      "Rumia mental enfocada en el pasado y en lo que 'debería o no debería haber hecho' [4]",
+      "Aislamiento social y conversación recurrente sobre el mismo tema (su desdicha) con las mismas personas [4]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Esposa",
+        "descripcion": "Intenta con 'más ahínco' hacer que piense en positivo, lo que le hace sentir incomprendido y aumenta su desolación [2, 3]. Su método de solución intentada es 'más de lo mismo' [5].",
+        "sentimientoPrincipal": "Frustración (de la esposa)/Incomprensión (de Raúl)"
+      },
+      {
+        "rol": "Amigos/Compañeros",
+        "descripcion": "Comparte con ellos su desdicha de forma repetitiva [4], pero evita activamente la compañía o la estimulación que le haría 'respirar profundamente' [4].",
+        "sentimientoPrincipal": "Evitación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Salir del bache o del estado actual, aunque lo percibe como una tarea ardua o casi imposible [1].",
+      "metaOculta": "Que su estado sea legitimado y que los demás aprecien su 'desolación' en lugar de forzarle al optimismo [3].",
+      "miedoPrincipal": "El miedo a que su estado sea fijo e inmutable, creyendo que 'siempre se ha sentido así y que en el futuro siempre se sentiría así' [4]."
+    },
+    "incongruencias": "Afirma querer ayuda, pero sus acciones (evitar salir, cerrar cortinas, limitar la estimulación [4]) están diseñadas activamente para mantener una 'depresión realmente buena' [4], saboteando el cambio.",
+    "creenciaCentral": "Mi problema es insidioso, grave y difícil de resolver [1]. Siempre salgo mal en la comparación con los demás [4].",
+    "estiloDeComunicacion": "Modo indicativo [6] que consolida su realidad negativa ('nunca', 'siempre'). Uso de etiquetas patológicas fijas ('deprimido') [1, 4, 7].",
+    "mecanismoDeDefensa": "Retraimiento y Rumia mental (dar vueltas al pasado y a todo lo que 'debería o no debería haber hecho') [4].",
+    "motivacionParaLaTerapia": "La ineficacia de los intentos de solución de su familia (que se intensifican al fracasar [2]) lo han llevado a un punto muerto que requiere la intervención de un tercero [2].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Desesperanza",
+        "linea": "Si quisiera tener una depresión realmente buena... daría vueltas al pasado y a todas las cosas que debería o no debería haber hecho. Pensaría que siempre me había sentido así."
+      },
+      {
+        "emocion": "Frustración",
+        "linea": "Si me comprendieran realmente, ¿cómo podrían decirme 'ánimo'? Lo que realmente necesito es sentir que de verdad están conmigo."
+      }
+    ]
+  }
+]
