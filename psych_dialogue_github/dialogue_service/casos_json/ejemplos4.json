@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e3c9d2b1-5a0f-4e78-8b9c-1f4a7c0b3d6e",
+    "nombreCompleto": "Paul S. Romero",
+    "edad": "16 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Aislamiento",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Paul fue traído a consulta porque se había **aislado completamente**, rara vez salía de su dormitorio, y se escondía de las visitas [1]. Su problema se mantiene por una **'vieja' historia** saturada de fracaso [2], y se encuentra en un estado donde **el retraimiento y la huida del retraimiento** tienen atractivo [3]. La familia está preocupada porque ha estado **'echando a perder su futuro'** [4].",
+    "sintomasClave": [
+      "Retraimiento social, no mira a los ojos y habla muy poco [5]",
+      "Incapacidad para tomar iniciativas y dirigir su propia vida [6, 7]",
+      "Tendencia a pensar en la dificultad como un **fracaso** o una **'huida hacia atrás'** [8, 9]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Padres (Richard y Mim)",
+        "descripcion": "Están **preocupados por el rumbo** que está tomando su vida [1]. El terapeuta debe enseñarles a **'apoyar desde atrás'** en vez de **'ir por delante'**, para no **debilitarlo** al hacer cosas por él [10, 11].",
+        "sentimientoPrincipal": "Preocupación/Inquietud"
+      },
+      {
+        "rol": "Retraimiento/Aislamiento (Externalizado)",
+        "descripcion": "El aislamiento es una **'trampa'** que le hace llevar una **vida 'de segunda mano'** [12]. El problema le había **'acorralado en un rincón'** [13, 14].",
+        "sentimientoPrincipal": "Subyugación/Agitación"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Incrementar su **propia influencia** y salir del rincón en el que le ha acorralado el problema [13, 15].",
+      "metaOculta": "Ser el **autor privilegiado** de un **nuevo relato** [10] y lograr un **nuevo status** que le permita ser **'más fuerte'** [16].",
+      "miedoPrincipal": "Que la **'vieja' historia** de fracasos le impida ver las **posibilidades extraordinarias** [2, 10], o que sus **avances** sean **'demasiado ambiciosos'** y le hagan caer [17]."
+    },
+    "incongruencias": "Desea salir del aislamiento y **tomar las riendas de su vida** [3], pero sigue aferrándose a los **hábitos que le ha enseñado el retraimiento** [9] y no es capaz de tomar iniciativas sin ser **anulado** [18].",
+    "creenciaCentral": "Mi vida está definida por un **relato saturado de problemas** [19] y estoy condenado a la **desilusión** [20].",
+    "estiloDeComunicacion": "Retraído, hablaba muy poco [5]. Centrado en la **evitación** o en la dificultad de los pasos a dar (modo condicional o subjuntivo) [21].",
+    "mecanismoDeDefensa": "**Retraimiento Estratégico** (una **'trampa'** que le permite tener ideas creativas, pero no ejecutarlas) [7, 12].",
+    "motivacionParaLaTerapia": "El problema le había **acorralado en un rincón** y estaba decidido a hacer algo para **salvar su vida** [13].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Agitación/Reserva",
+        "linea": "El aislamiento tiene cierto atractivo, pero al final... te hace llevar una vida **'de segunda mano'**. No puedes ver las **posibilidades extraordinarias** si otros se ponen delante."
+      },
+      {
+        "emocion": "Determinación",
+        "linea": "Yo creo que el próximo paso no está lejos. Tengo que **dirigir mi propia vida**. La gente no puede ver las posibilidades si se pone **delante de uno**."
+      }
+    ]
+  },
+  {
+    "id": "1b8d6f9a-4c2e-40b5-9d3f-0a1b2c3d4e5f",
+    "nombreCompleto": "Marcos D. Vidal",
+    "edad": "17 años",
+    "genero": "Masculino",
+    "perfilPrincipal": "Adicción/Toxicomanía",
+    "fuentePrimaria": "En busca de soluciones",
+    "historiaResumida": "Marcos es un ex campeón de lucha libre que acude a terapia por abuso de alcohol, lo que lo llevó a dejar su equipo. El terapeuta utiliza el **enfoque de la utilización** [22] y el **espíritu competitivo** del cliente [23] para reencuadrar el problema del alcohol como un **adversario** en una lucha. La intervención se enfoca en **modificar un patrón de acción** mediante un ritual de puntuación diario [24].",
+    "sintomasClave": [
+      "Abuso de alcohol que lleva al abandono de actividades positivas (lucha libre) [23]",
+      "Necesidad de afirmar **fuerza y virilidad** como respuesta a la provocación [23]",
+      "Incapacidad para **dejar fuera de combate** el problema del alcohol por sí solo [24]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Madre",
+        "descripcion": "Participa en la **intervención sobre patrones** [25] al aplicar el **sistema de puntuaciones** para evaluar la actuación de Marcos contra el problema del alcohol [24].",
+        "sentimientoPrincipal": "Preocupación/Determinación"
+      },
+      {
+        "rol": "El Problema (Alcohol)",
+        "descripcion": "El alcohol se externaliza y reifica como un **adversario** que **le puede** [23]. Debe ser vencido mediante un **ritual diario** para **dejarlo fuera de combate** [24].",
+        "sentimientoPrincipal": "Desafío/Lucha"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Dejar de beber y **volver a participar** en su equipo de lucha libre [23].",
+      "metaOculta": "Demostrar su **fuerza y virilidad** venciendo al alcohol, que es percibido como un **desafío a su competencia** [23].",
+      "miedoPrincipal": "**Dejar que el problema del alcohol le pueda** (le gane la competición) [23]."
+    },
+    "incongruencias": "Se **jacta de su fuerza** y de su espíritu competitivo, pero permite que un **problema tan pequeño** como el alcohol le pueda y lo mantenga fuera de su actividad deportiva, contradiciendo su **creencia central** [23].",
+    "creenciaCentral": "Soy un campeón y mi valor está ligado a mi **fuerza y mi capacidad competitiva**; el alcohol es un reto que debo **ganar** [23].",
+    "estiloDeComunicacion": "**Provocador**, utiliza el lenguaje de la **competición** y los **términos de lucha libre** [23, 24].",
+    "mecanismoDeDefensa": "**Actuación** (en forma de abuso de sustancias) y **Competición** (mal dirigida) [23].",
+    "motivacionParaLaTerapia": "El **desafío directo** del terapeuta: \"¿Por cuánto tiempo vas a dejar que este problema con el alcohol te pueda?\" [23].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Desafío/Ego",
+        "linea": "¿Por cuánto tiempo voy a dejar que este problema con el alcohol me pueda? Yo soy más fuerte que eso, he sido campeón. El problema no va a **ponerme de espaldas contra la lona**."
+      },
+      {
+        "emocion": "Competitividad",
+        "linea": "Debo **tomar nota de las diversas cosas que hago todos los días** para evitar ser vencido, y mi madre debe darme una **puntuación por mi actuación**."
+      }
+    ]
+  },
+  {
+    "id": "7f6e5d4c-3b2a-1c0d-9a8b-7f6e5d4c3b2a",
+    "nombreCompleto": "Marlene J. Bauer",
+    "edad": "20 años",
+    "genero": "Femenino",
+    "perfilPrincipal": "Anorexia nerviosa",
+    "fuentePrimaria": "Medios narrativos para fines terapéuticos",
+    "historiaResumida": "Marlene tiene una larga historia de anorexia nerviosa y **odio hacia sí misma**. El problema se mantiene por un **entrenamiento** en la negación y la **culpa** [26, 27]. Estaba convencida de ser **'basura'** y de que su cuerpo era una **'cosa'** que debía ser controlada. La terapia se centró en la **externalización del odio** [28] y en **resistir las exigencias** de la bulimia [27].",
+    "sintomasClave": [
+      "Autoagresividad y **autorrechazo** [26, 29]",
+      "**Constante evaluación de su cuerpo y de su persona** [27]",
+      "**Negación** y **oposición** a la actitud de sus padres, pero con alta culpa [26, 29]"
+    ],
+    "relacionesClave": [
+      {
+        "rol": "Padre/Abuela",
+        "descripcion": "El problema se nutre de la **actitud controladora y descalificadora** de su padre y abuela, que la entrenaron para que **'no mereciera sentarse en una silla'** [26, 30].",
+        "sentimientoPrincipal": "Subyugación"
+      },
+      {
+        "rol": "Anorexia Nerviosa (Externalizado)",
+        "descripcion": "La anorexia ha exigido que actúe en su contra, la ha obligado a **rechazarse** y a ser **dócil**. Ejerce una **dictadura** sobre ella [27].",
+        "sentimientoPrincipal": "Hostilidad"
+      }
+    ],
+    "metasVsMiedos": {
+      "metaDeclarada": "Disminuir la **autoagresividad** y el **autorrechazo** para **'sentir renacer la mujer que hay en ella'** [26, 31].",
+      "metaOculta": "Separarse del **entrenamiento** recibido y desarrollar una **nueva y más fructífera relación consigo misma** [30, 32].",
+      "miedoPrincipal": "Ser **agobiada por la culpa** [33] al separarse de la actitud de su padre, o que su cuerpo sea siempre una **'cosa'** que no puede controlar [34, 35]."
+    },
+    "incongruencias": "Estaba convencida de ser **'basura'** y no merecer atención, pero simultáneamente se sintió con **derecho a pedir más entrevistas** [30, 36].",
+    "creenciaCentral": "Mi cuerpo es una **'cosa'** que debo controlar o rechazar; no merezco la felicidad ni sentarme, porque soy **'basura'** [30, 34].",
+    "estiloDeComunicacion": "Inicialmente **frágil y susurrante** (o transmitido por otro) [30, 37], se vuelve más firme y habla **sin rodeos** a medida que avanza [29].",
+    "mecanismoDeDefensa": "**Autoagresividad** y **Autotortura** (como una forma de castigo por la culpa) [26, 38].",
+    "motivacionParaLaTerapia": "Haber **debilitado** el odio hacia sí misma al enfrentarse a las voces [35] y darse cuenta de que no quería que la **'sentencia a cadena perpetua'** persistiera [39].",
+    "dialogosEjemplo": [
+      {
+        "emocion": "Culpa/Rechazo",
+        "linea": "No creía merecérmelas. Puesto que estaba convencida de ser una **'basura'**, no me consideraba merecedora de todas las atenciones que me estábamos prodigando."
+      },
+      {
+        "emocion": "Rebeldía",
+        "linea": "La bulimia [o el problema] te ha exigido una **constante evaluación de tu cuerpo y de tu persona**. Te ha obligado a ser **dócil**. No tengo por qué seguir este entrenamiento."
+      }
+    ]
+  }
+]
