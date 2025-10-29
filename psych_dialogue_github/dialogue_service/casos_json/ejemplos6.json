@@ -1,0 +1,140 @@
+[
+    {
+        "id": "c1f3b0d2-9a8e-4c7b-6d5a-4e3f2g1h0i9j",
+        "nombreCompleto": "Paul S. Romero",
+        "edad": "16 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Soledad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Paul se había **aislado completamente** [1], rara vez salía de su dormitorio, y se escondía de las visitas. El problema le había **'acorralado en un rincón'** [2, 3] y se mantiene porque ha adoptado los **hábitos que le ha enseñado el retraimiento** [4], cayendo en una **vida 'de segunda mano'** [5], donde otros toman la iniciativa por él.",
+        "sintomasClave": [
+            "Retraimiento social acelerado, limitando el contacto al mínimo [6, 7]",
+            "**Pérdida de confianza en sí mismo** [6] y autocrítica [6]",
+            "**Aislamiento táctico** (estratégico) en la cama para soñar y tener ideas creativas, sin llevarlas a cabo [8, 9]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres (Harry y Rose)",
+                "descripcion": "Están **angustiados y apenados** [7]. Su preocupación los lleva inadvertidamente a **ir por delante** [10] de Paul, tomando iniciativas por él, lo cual lo **debilitaba** [10] y confirmaba su sensación de fracaso.",
+                "sentimientoPrincipal": "Preocupación/Desesperación [7]"
+            },
+            {
+                "rol": "Retraimiento (Externalizado)",
+                "descripcion": "El retraimiento le ofrece el **atractivo** de un lugar donde puede tener **ideas creativas**, pero es una **'trampa'** que le impide **dirigir su propia vida** [5, 8].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Consolidar los pasos para **desembarazarse del aislamiento** y **tomar las riendas de su vida** [4].",
+            "metaOculta": "Ser el **autor privilegiado** del nuevo relato [11] y ser una **persona expansiva** en vez de retraída [12].",
+            "miedoPrincipal": "Que la **'vieja' historia** de fracasos le impida ver las **posibilidades extraordinarias** [10], o que sus avances sean **'demasiado ambiciosos'** [13] y resulten en una confirmación de su fracaso."
+        },
+        "incongruencias": "Paul es un **joven muy competente** [8] y con creatividad [5], pero está **anulado** [14] por su patrón de **aislamiento táctico** que lo mantiene en una **vida de segunda mano** [5].",
+        "creenciaCentral": "Soy un **gran fracasado** [10], y mi **vida está definida por un relato saturado de problemas** [15], por lo que es más seguro **retroceder** que avanzar [5].",
+        "estiloDeComunicacion": "Retraído y con un lenguaje de **evitación** o de dificultad de los pasos a dar. Necesita que el terapeuta le hable con **'curiosidad'** [16].",
+        "mecanismoDeDefensa": "Retraimiento y **Racionalización** (su aislamiento es productivo/creativo [9]).",
+        "motivacionParaLaTerapia": "El problema le había **acorralado en un rincón** [3], y el temor de que su futuro estuviera **echándose a perder** [2] lo impulsó a buscar ayuda.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Agitación/Reserva",
+                "linea": "El aislamiento táctico es muy productivo, se me ocurren buenas ideas, pero solo me sirven para frustrarme más, ya que no puedo llevarlas a cabo. Mi vida es de **segunda mano** [5, 9]."
+            },
+            {
+                "emocion": "Esperanza tentativa",
+                "linea": "He estado consolidando algunos pasos para desembarazarme del aislamiento. Lo importante es que entiendan que en todo camino hay detenciones, y que a menudo parece que uno da tres pasos adelante y dos hacia atrás [4]."
+            }
+        ]
+    },
+    {
+        "id": "a9b8c7d6-e5f4-3a2b-1c0d-9e8f7g6h5i4j",
+        "nombreCompleto": "Carol D. Rivas",
+        "edad": "50 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Manipulación",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Carol es una madre soltera con cinco hijos, que ha sufrido el **terror** y la **violencia** de su hijo Tony, quien la manipula y la somete a **chantaje con el amor** [17] y el **abuso** de su generosidad. Su problema se mantiene por una **superresponsabilidad** frente al comportamiento irresponsable de su hijo, y una profunda **culpabilidad** que es el **carcelero de su prisión** [18, 19].",
+        "sintomasClave": [
+            "**Autotortura** por la culpabilidad, superando al **autorrespeto** [20]",
+            "**Incapacidad de establecer límites** debido al chantaje emocional del hijo [21]",
+            "Sentimiento de que su vida es una **sentencia a cadena perpetua** [22] por la culpa."
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Hijo (Tony)",
+                "descripcion": "Tony ha sustituido la violencia física por el **terror** [21] y exige dinero, coche y casa. Su **culpabilidad** la invita a ser **superresponsable** frente a su irresponsabilidad, permitiendo la **manipulación** [18].",
+                "sentimientoPrincipal": "Miedo/Resentimiento"
+            },
+            {
+                "rol": "Culpabilidad (Externalizada)",
+                "descripcion": "La Culpabilidad es el **'carcelero de su prisión'** [19] y le exige **mantener el secreto familiar** (tradición de deslealtad) e impide que sus argumentos a favor del **autorrespeto** superen a los de la **autotortura** [20, 23].",
+                "sentimientoPrincipal": "Culpabilidad"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Liberarse de la **culpabilidad** y el **terror** para poder **retomar el respeto por sí misma** [19, 20].",
+            "metaOculta": "Que sus **argumentos de autorrespeto** superen a los de **autotortura** [24] y recuperar el control sobre la economía familiar y su vida [17, 22].",
+            "miedoPrincipal": "Que una **vida dominada por la culpa sea una sentencia a cadena perpetua** [22] o que al cambiar **pierda el amor** de su hijo."
+        },
+        "incongruencias": "Carol es una persona con gran **valentía** [25] y **poder de recuperación** (aprobó exámenes [19]), pero se permite ser **víctima** de la violencia y la **superresponsabilidad** frente a Tony por temor a la culpa [18, 26].",
+        "creenciaCentral": "Soy **superresponsable** de las aflicciones de mis hijos, y mi **culpa** es la manifestación de que **no he querido lo suficiente** [26, 27].",
+        "estiloDeComunicacion": "Inicialmente **inquieto** [21], lleno de **letanía de razones** [23] para sentirse culpable. Lenguaje que refleja **dar y dar** hasta el vacío [28, 29].",
+        "mecanismoDeDefensa": "Autotortura y **Superresponsabilidad** (mecanismos que mantienen la subyugación del problema) [18, 30].",
+        "motivacionParaLaTerapia": "El **terror** del hijo [21] y el **resentimiento** que sintió cuando él le robó dinero [22] fue la **gota que colmó el vaso** [29] que le hizo romper con la culpabilidad.",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Culpabilidad/Vacío",
+                "linea": "He dado, dado, dado y ya no me queda nada que dar. Vi un agujero muy profundo. **Vete o llamaré a la policía**. Desapareció todo el miedo [28]."
+            },
+            {
+                "emocion": "Resentimiento/Análisis",
+                "linea": "Tony me ha chantajeado con el amor. Me di cuenta de que había sido la **víctima de mucha gente** durante mucho tiempo. Una vida dominada por la culpa es una **sentencia a cadena perpetua** [17, 29]."
+            }
+        ]
+    },
+    {
+        "id": "6d5a4e3f-2g1h-0i9j-8k7l-6m5n4p3q2r1s",
+        "nombreCompleto": "Julie H. Adams",
+        "edad": "26 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ira",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Julie ha sido **violada y brutalmente golpeada** por su marido, lo que le ha causado **estrés postraumático** [31, 32]. A pesar de ser capaz de enfrentarse a la violencia, se siente **agobiada por la confusión** y la **presión contradictoria** de amigos y familiares, quienes le exigen tomar decisiones sin darle **tiempo ni espacio para recuperarse** [31, 33].",
+        "sintomasClave": [
+            "Síntomas de **estrés postraumático** (revivir lo ocurrido, terror, miedo dominante) [32]",
+            "Sentimiento de **confusión** [31] y **vulnerabilidad** [33] ante las opiniones impuestas por otros",
+            "Necesidad de que se le **devuelva la autoridad** sobre su propia vida [34]."
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Amigos/Familiares",
+                "descripcion": "La están **presionando con consejos contradictorios** sin que ella los pida. Esta presión le **impide recuperarse** [31] y la hace sentir **demasiado débil y vulnerable** para oponerse [33].",
+                "sentimientoPrincipal": "Presión/Confusión"
+            },
+            {
+                "rol": "El Trauma/Terror (Externalizado)",
+                "descripcion": "El Trauma/Terror la somete a **revivir lo ocurrido en pesadillas** y sentir un **temor que lo domina todo** [32], ejerciendo su **influencia** en su mente y cuerpo.",
+                "sentimientoPrincipal": "Terror"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Sentirse más **segura** y lograr que el dolor **no se extienda** después de que las heridas hayan cicatrizado [31, 32].",
+            "metaOculta": "Recobrar el **control de su vida** y obtener **tiempo y espacio** para recuperarse del terror [34].",
+            "miedoPrincipal": "Volverse **loca** por la confusión [31] o que **sufrimiento continúe** indefinidamente [32]."
+        },
+        "incongruencias": "Es una mujer con la **fuerza suficiente para denunciar** y enfrentarse a su agresor, pero se siente **demasiado débil y vulnerable** para oponerse a que sus amigos le impongan opiniones sobre su vida [31, 33].",
+        "creenciaCentral": "Mi sufrimiento es inevitable y **continuará** más allá de las heridas físicas, especialmente si los demás **me imponen su voluntad**.",
+        "estiloDeComunicacion": "Angustiado, centrado en la **confusión** y el **terror**. Utiliza el lenguaje del **agobio** y la **presión** [31].",
+        "mecanismoDeDefensa": "**Represión/Evitación** (por la noche revive los hechos [32]), seguida de **Retraimiento** (para evitar la confusión de los otros).",
+        "motivacionParaLaTerapia": "No podía soportar la **confusión** y la **presión** de amigos y familiares. Necesitaba que le **devolvieran la autoridad** sobre su propia vida [31, 34].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia/Presión",
+                "linea": "Me presionaban con consejos contradictorios, sin que yo los pidiera. Fui capaz de enfrentarme a todo lo que me había pasado, pero **no soporto esta confusión** [31]."
+            },
+            {
+                "emocion": "Vulnerabilidad",
+                "linea": "Ya he tenido **demasiadas experiencias en lo que se refiere a verse forzada por otros en contra de su voluntad**. Precisamente ahora estoy demasiado débil y vulnerable como para oponerme a que me impongan opiniones [33]."
+            }
+        ]
+    }
+]
