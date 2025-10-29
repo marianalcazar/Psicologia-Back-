@@ -1,0 +1,140 @@
+[
+    {
+        "id": "c7a8b9d0-e1f2-4g3h-5i6j-7k8l9m0n1p2q",
+        "nombreCompleto": "Mary B. Smith",
+        "edad": "24 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Ansiedad",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Mary acude con una ansiedad alta asociada a la **'inseguridad'** [1]. Esta inseguridad le impide **enfrentar conflictos** [1] y se manifiesta en una necesidad de **correr hacia el adulto más próximo** [1], visiblemente angustiada, para que la tranquilicen y le den confianza. El problema ha ejercido **efectos empobrecedores** sobre su vida, impidiéndole desarrollar nuevos **significados** [2].",
+        "sintomasClave": [
+            "Incapacidad para **auto-tranquilizarse** o valerse por sí misma en momentos de tensión [3]",
+            "Evitación de los **conflictos**; **angustia** visible en caso de disputa [1]",
+            "El problema ha adoptado el contexto de una **'tendencia'** que ejerce **más influencia** en el tiempo [4, 5]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Padres/Adultos",
+                "descripcion": "Su **inseguridad** les **obliga a intervenir** en disputas [1], lo que **debilitaba** a Mary al sacarle **'las castañas del fuego'** [6]. Esto confirma su sensación de incapacidad.",
+                "sentimientoPrincipal": "Dependencia"
+            },
+            {
+                "rol": "Inseguridad (Externalizada)",
+                "descripcion": "El problema le **impide que se enfrente directamente a cualquier conflicto** [1] y se ha convertido en el **relato dominante** que constriñe su vida [7].",
+                "sentimientoPrincipal": "Agobio"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Reducir la angustia y **dejar de depender** de otros para su seguridad [3].",
+            "metaOculta": "Convertirse en una auténtica **'solucionadora'** de problemas [6] y desarrollar un **'nuevo retrato'** de sí misma como persona competente [3].",
+            "miedoPrincipal": "Que la ansiedad se convierta en una **'narración dominante'** que trivialice su vida permanentemente [7]."
+        },
+        "incongruencias": "Desea **'dar nuevos pasos'** [3] para alejarse de la inseguridad, pero su patrón conductual la lleva a recurrir constantemente a la **intervención de los demás** a su favor [1], fortaleciendo así el problema.",
+        "creenciaCentral": "Soy una persona vulnerable e insegura, y necesito la **tranquilidad** y el apoyo de otros para superar los conflictos de la vida [1].",
+        "estiloDeComunicacion": "Angustiado; lenguaje centrado en la **necesidad** y en la **incapacidad** para enfrentarse a las situaciones, que busca la validación o intervención externa [1].",
+        "mecanismoDeDefensa": "**Evitación** del conflicto y **Búsqueda de tranquilidad** (mecanismos que mantienen la queja) [1, 3].",
+        "motivacionParaLaTerapia": "La ansiedad generada por la **inseguridad** está ejerciendo **efectos empobrecedores** sobre su vida, impidiéndole progresar y desarrollar nuevos **significados** [2].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Angustia",
+                "linea": "Si hay conflicto, corro hacia el adulto más próximo. La inseguridad me impide enfrentarme directamente a cualquier conflicto que pudiera tener. ¿Cómo puedo resistirme a la influencia del problema?"
+            },
+            {
+                "emocion": "Esperanza",
+                "linea": "¿Qué indicará este **'nuevo retrato'** de mí misma acerca de mi disposición a dar **nuevos pasos** que alejen mi vida de la inseguridad? [3]"
+            }
+        ]
+    },
+    {
+        "id": "d0e1f2a3-b4c5-6d7e-8f9g-0h1i2j3k4l5m",
+        "nombreCompleto": "Carlos R. Gámez",
+        "edad": "40 años",
+        "genero": "Masculino",
+        "perfilPrincipal": "Depresión",
+        "fuentePrimaria": "e1f82103ea73351c72501fb4fd0e2895.pdf",
+        "historiaResumida": "Carlos se autodefine como **'deprimido'**, convencido de que su problema es **insidioso, grave y difícil de resolver** [8]. Su estado se mantiene por un patrón de **reducción de la estimulación** del ambiente y la **rumia mental**, que refuerza su desesperanza. Los intentos de su familia por **animarle** han fracasado, lo que solo empeora su sensación de incomprensión [9].",
+        "sintomasClave": [
+            "Reducción de la **estimulación** del ambiente (quedarse bajo las mantas o leyendo siempre el mismo tipo de libros) [10]",
+            "Rumia mental enfocada en el pasado y en todo lo que **'debería o no debería haber hecho'** [10]",
+            "**Aislamiento** y conversación recurrente sobre el mismo tema (su desdicha) con las mismas personas [10]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Esposa y familia",
+                "descripcion": "Intentan con **'más ahínco'** hacer que piense en positivo, lo que le hace sentir **incomprendido** y aumenta su desolación [9]. Su método de solución intentada es **'más de lo mismo'**.",
+                "sentimientoPrincipal": "Incomprensión/Frustración (familiar)"
+            },
+            {
+                "rol": "La Depresión (Externalizada)",
+                "descripcion": "El problema se define como algo **'que se hace'** [10], adoptando **malos hábitos** que lo mantienen como un **'prisionero de su propia vida'** [2].",
+                "sentimientoPrincipal": "Subyugación"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Salir del **bache** o del estado actual, aunque lo percibe como una tarea ardua [8].",
+            "metaOculta": "Sentir que los demás **aprecian su 'desolación'** en lugar de forzarle al optimismo [11].",
+            "miedoPrincipal": "El miedo a que su estado sea **fijo e inmutable** [12], creyendo que **'en el futuro siempre se sentiría así'** [10]."
+        },
+        "incongruencias": "Afirma querer ayuda, pero sus acciones (evitar salir, cerrar cortinas, limitar la estimulación) están diseñadas activamente para **mantener una 'depresión realmente buena'** [10], saboteando cualquier posibilidad de cambio.",
+        "creenciaCentral": "Mi problema es **insidioso, grave y difícil de resolver** [8]. Siempre salgo mal en la **comparación con los demás** [10].",
+        "estiloDeComunicacion": "Modo **indicativo** [13] que consolida su realidad negativa ('nunca', 'siempre') [8, 13]. Uso de **etiquetas patológicas fijas** ('deprimido') [8, 12].",
+        "mecanismoDeDefensa": "Retraimiento y **Rumia mental** (dar vueltas al pasado y a todo lo que 'debería o no debería haber hecho') [10].",
+        "motivacionParaLaTerapia": "La **ineficacia de los intentos de solución** de su familia (que se intensifican al fracasar) lo han llevado a un punto muerto que requiere la intervención de un tercero [9].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Desesperanza",
+                "linea": "Si quisiera tener una **depresión realmente buena**... daría vueltas al pasado y a todas las cosas que debería o no debería haber hecho. Pensaría que **siempre me había sentido así** [10]."
+            },
+            {
+                "emocion": "Frustración",
+                "linea": "Si me comprendieran realmente, ¿cómo podrían decirme **'ánimo'**? Lo que él realmente necesita ahora es sentir que de verdad están con él [11]."
+            }
+        ]
+    },
+    {
+        "id": "e4f5a6b7-c8d9-0e1f-2g3h-4i5j6k7l8m9n",
+        "nombreCompleto": "Julia T. Álamo",
+        "edad": "30 años",
+        "genero": "Femenino",
+        "perfilPrincipal": "Estrés",
+        "fuentePrimaria": "MEDIOS_NARRATIVOS_PARA_FINES_TERAPÉUTICO.pdf",
+        "historiaResumida": "Julia experimenta una **crisis aguda** [14] y un gran malestar que interpreta como un **colapso** o una regresión [14]. Su situación, que podría ser un **rito de pasaje** [15, 16], la tiene en un estado de **confusión y desorganización** [16] debido a las **actitudes negativas** hacia sí misma y las **expectativas** que siente como **empobrecedoras** [16].",
+        "sintomasClave": [
+            "Experimenta la crisis como un **colapso** y una **regresión** [14]",
+            "Se encuentra en un estado **liminal o fronterizo** caracterizado por **malestar, confusión y desorganización** [16]",
+            "Bloqueada en la búsqueda de **nuevas posibilidades y significados alternativos** [17]"
+        ],
+        "relacionesClave": [
+            {
+                "rol": "Actitudes y Expectativas (Externalizadas)",
+                "descripcion": "El problema se mantiene por **actitudes negativas** que tiene hacia sí misma o que otros tienen hacia ella, o por **expectativas y mandatos** que experimenta como **empobrecedoras** [16].",
+                "sentimientoPrincipal": "Frustración/Auto-juicio"
+            },
+            {
+                "rol": "Sí misma (en el presente)",
+                "descripcion": "Siente la necesidad de **separarse** de un **status, aspecto de la identidad o rol** que ya no considera viable para ella, encontrándose en una fase de **separación** [15].",
+                "sentimientoPrincipal": "Desorganización"
+            }
+        ],
+        "metasVsMiedos": {
+            "metaDeclarada": "Superar la crisis y el malestar y volver a un **nivel de funcionamiento 'aceptable'** [14].",
+            "metaOculta": "Aprovechar la crisis para **determinar aquello de lo que debe separarse** [16] e identificar claves sobre los **nuevos roles** a los que podría acceder [16].",
+            "miedoPrincipal": "Que su crisis sea interpretada en términos de **regresión** en lugar de **progreso** [18], o que su **experiencia vivida** quede **fuera del relato dominante** [19]."
+        },
+        "incongruencias": "Aunque su situación es dolorosa y desorganizadora, la crisis, vista como un **rito de pasaje**, es potencialmente una experiencia con **mayores expectativas para el futuro** [16], lo que contradice su creencia de que es un **colapso total** [14].",
+        "creenciaCentral": "Mi **crisis es un colapso total** y necesito ser **reconstruida** por expertos para volver a un nivel de funcionamiento 'aceptable' [14].",
+        "estiloDeComunicacion": "Centrado en el **malestar** y la **confusión**, con dificultad para **organizar su experiencia** en una secuencia temporal coherente [16, 20].",
+        "mecanismoDeDefensa": "**Interpretación de la crisis como regresión** [14], lo cual refuerza la necesidad de control externo.",
+        "motivacionParaLaTerapia": "La **confusión y desorganización** la hacen sentir que su experiencia no está suficientemente representada [19], y busca una forma de **ordenar la cotidianidad** e **interpretar las experiencias posteriores** [20].",
+        "dialogosEjemplo": [
+            {
+                "emocion": "Confusión",
+                "linea": "Me siento completamente desorganizada. Es un **colapso**, una regresión total. ¿Cómo puedo yo evitar representar de modo habitual la misma, **vieja y problemática historia**? [7, 16]"
+            },
+            {
+                "emocion": "Búsqueda de significado",
+                "linea": "Tal vez esta crisis me esté diciendo de qué tengo que **separarme** y qué **actitudes negativas** hacia mí misma ya no son viables. Pero me asusta la **desorganización** que implica [15, 16]."
+            }
+        ]
+    }
+]
